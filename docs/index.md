@@ -1,3 +1,4 @@
+## Character Information
 - Character Name: Ansa Khenbish Morevna
 - Class: Witch (White Magic) 5 / Savant (Physician) 5
 - Race: Custom Lineage (Half Human)
@@ -6,6 +7,7 @@
 - Player Name: Maddie
 - Experience Points:
 
+## Ability Scores
 - Str: +2(14)
 - Dex: +2 (15)
 - Con: +3(16)
@@ -13,9 +15,9 @@
 - Wis: +3(16)
 - Chr: +5(20)
 
-Proficiency Bonus: +4
+## Proficiency Bonus: +4
 
-Saving Throws
+## Saving Throws
 - Str: +2
 - Dex: +2
 - Con: +3
@@ -23,7 +25,7 @@ Saving Throws
 - Wis: +7(P)
 - Chr: +9(P)
 
-Skills
+## Skills
 - Acrobatics: +2
 - Animal Handling: +3
 - Arcana: +9(P)
@@ -42,57 +44,59 @@ Skills
 - Stealth: +6(P)
 - Survival: +3
 
+## Passive Skills
 - Passive Perception: 17
 - Passive Investigation: 15
 - Passive Insight: 17
 
-Proficiencies:
+## Proficiencies:
 - Armor: Light Armor
 - Weapons: Simple Weapons, Blowguns, Short Swords, Whips
 - Tools: Alchemist's Supplies, Herbalist Kit, Poisoner's Kit, Weaver's Tools
 
-Armor Class: 
+## Armor Class: 
 - Studded Leather: 17
 - No Armor: 15
 
-Speed 30
+## Speed 30
 
-Hit Points
-Hit Dice: 10d8
+## Hit Points
+- Total Hit Points:
+- Hit Dice: 10d8
 
-Feats:
+## Feats:
 ??? tip "Cartomancer"
-   You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
-   Card Tricks. You learn the Prestidigitation cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use Prestidigitation in this way, you can conceal the verbal and somatic components of the spell as ordinary conversation and card handling.
-   
-   Hidden Ace. When you finish a long rest, you can choose one spell from your class's spell list and imbue that spell into a card. The chosen spell must have a casting time of 1 action, and it must be a level for which you have spell slots. The card remains imbued with this spell for 8 hours. While the card is imbued with the spell, you can use a bonus action to flourish the card and cast the spell within. The card then immediately loses its magic.
-   
-   Source: BMT, page 49
+    You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
+    Card Tricks. You learn the Prestidigitation cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use Prestidigitation in this way, you can conceal the verbal and somatic components of the spell as ordinary conversation and card handling.
+    
+    Hidden Ace. When you finish a long rest, you can choose one spell from your class's spell list and imbue that spell into a card. The chosen spell must have a casting time of 1 action, and it must be a level for which you have spell slots. The card remains imbued with this spell for 8 hours. While the card is imbued with the spell, you can use a bonus action to flourish the card and cast the spell within. The card then immediately loses its magic.
+    
+    Source: BMT, page 49
 
-Rune Shaper: Enemy, Friend
-Prerequisites: Spellcasting Feature or Rune Carver
-You've studied the magic of Giant runes, granting you the following benefits:
-Comprehend Languages. You learn the comprehend languages spell. You can cast this spell without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using any spell slots you have.
-
-Rune Magic. You know a number of runes equal to half your proficiency bonus (rounded down), chosen from the Rune Spells table. Whenever you finish a long rest, you can inscribe each rune you know onto one nonmagical weapon, armor, piece of clothing, or other object you touch. You temporarily learn the 1st-level spells that correspond to the runes you inscribed, as specified on the Rune Spells table, and you know those spells until you finish a long rest, when the runes fade. While you are wearing or carrying any rune-marked object, you can cast the spells associated with those runes using any spell slots you have.
-You can also invoke a rune inscribed on an object you are wearing or carrying and cast its associated spell without expending a spell slot or using material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Your spellcasting ability for this feat is Intelligence, Wisdom, or Charisma (choose when you select this feat).
-Each time you gain a level, you can replace one of the runes you know with another one from the Rune Spells table.
-
-Rune	Spell
-Cloud	Fog cloud
-Death	Inflict wounds
-Dragon	Chromatic orb
-Enemy	Disguise self
-Fire	Burning hands
-Friend	Speak with animals
-Frost	Armor of Agathys
-Hill	Goodberry
-Journey	Longstrider
-King	Command
-Mountain	Entangle
-Stone	Sanctuary
-Storm	Thunderwave
-Source: BGG, page 18
+??? tip "Rune Shaper: Enemy, Friend"
+    Prerequisites: Spellcasting Feature or Rune Carver
+    You've studied the magic of Giant runes, granting you the following benefits:
+    Comprehend Languages. You learn the comprehend languages spell. You can cast this spell without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using any spell slots you have.
+    
+    Rune Magic. You know a number of runes equal to half your proficiency bonus (rounded down), chosen from the Rune Spells table. Whenever you finish a long rest, you can inscribe each rune you know onto one nonmagical weapon, armor, piece of clothing, or other object you touch. You temporarily learn the 1st-level spells that correspond to the runes you inscribed, as specified on the Rune Spells table, and you know those spells until you finish a long rest, when the runes fade. While you are wearing or carrying any rune-marked object, you can cast the spells associated with those runes using any spell slots you have.
+    You can also invoke a rune inscribed on an object you are wearing or carrying and cast its associated spell without expending a spell slot or using material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Your spellcasting ability for this feat is Intelligence, Wisdom, or Charisma (choose when you select this feat).
+    Each time you gain a level, you can replace one of the runes you know with another one from the Rune Spells table.
+    
+    Rune	Spell
+    Cloud	Fog cloud
+    Death	Inflict wounds
+    Dragon	Chromatic orb
+    Enemy	Disguise self
+    Fire	Burning hands
+    Friend	Speak with animals
+    Frost	Armor of Agathys
+    Hill	Goodberry
+    Journey	Longstrider
+    King	Command
+    Mountain	Entangle
+    Stone	Sanctuary
+    Storm	Thunderwave
+    Source: BGG, page 18
 
 Telekinetic: Chr
 
