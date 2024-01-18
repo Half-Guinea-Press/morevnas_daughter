@@ -1,11 +1,20 @@
-## Character Information
-- Character Name: Ansa Khenbish Morevna
-- Class: Witch (White Magic) 5 / Savant (Physician) 5
-- Race: Custom Lineage (Half Human)
-- Background: Rune Carver
-- Alignment: Lawful Neutral
-- Player Name: Maddie
-- Experience Points:
+# Character Name: Ansa Khenbish Morevna
+??? "Character Information"
+    - Class: Witch (White Magic) 5 / Savant (Physician) 5
+    - Race: Custom Lineage (Half Human)
+    - Background: Rune Carver
+    - Alignment: Lawful Neutral
+    - Player Name: Maddie
+    - Experience Points:
+
+|       | Ability Score | Saving Throw |
+| :---: | :-----------: | :----------: |
+| 'Str' | +2(14)        | +2           |
+| 'Dex' | +2(15)        | +2           |
+| 'Con' | +3(16)        | +3           |
+| 'Int' | +5(20)        | +5           |
+| 'Wis' | +3(16)        | +7(P)        |
+| 'Chr' | +5(20)        | +9(P)        |
 
 ## Ability Scores
 - Str: +2(14)
