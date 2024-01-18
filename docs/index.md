@@ -1,5 +1,5 @@
 # Character Name: Ansa Khenbish Morevna
-??? "Character Information"
+??? inline end "Character Information"
     - Class: Witch (White Magic) 5 / Savant (Physician) 5
     - Race: Custom Lineage (Half Human)
     - Background: Rune Carver
