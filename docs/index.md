@@ -55,7 +55,7 @@
 - Hit Dice: 10d8
 
 ## Feats:
-??? tip "Cartomancer"
+??? "Cartomancer"
     You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
     Card Tricks. You learn the Prestidigitation cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use Prestidigitation in this way, you can conceal the verbal and somatic components of the spell as ordinary conversation and card handling.
     
@@ -63,7 +63,7 @@
     
     Source: BMT, page 49
 
-??? tip "Rune Shaper: Enemy, Friend"
+??? "Rune Shaper: Enemy, Friend"
     Prerequisites: Spellcasting Feature or Rune Carver
     You've studied the magic of Giant runes, granting you the following benefits:
     Comprehend Languages. You learn the comprehend languages spell. You can cast this spell without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using any spell slots you have.
@@ -88,73 +88,73 @@
     Storm	Thunderwave
     Source: BGG, page 18
 
-Telekinetic: Chr
+??? "Telekinetic: Chr"
 
-You learn to move things with your mind, granting you the following benefits:
-Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
-You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
-As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
-Source: TCE, page 81
+    You learn to move things with your mind, granting you the following benefits:
+    Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+    You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
+    As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
+    Source: TCE, page 81
 
-Racial Features:
-Custom Lineage
+## Racial Features: 
+??? "Custom Lineage"
+    
+    Ability Scores: Choose any +2
+    Size: Small or Medium
+    Speed: 30 ft.
+    Instead of choosing one of the game's races for your character at 1st level, you can use the following traits to represent your character's lineage, giving you full control over how your character's origin shaped them:
+    
+    Creature Type. You are a humanoid. You determine your appearance and whether you resemble any of your kin.
+    Size. You are Small or Medium (your choice).
+    Feat. You gain one feat of your choice for which you qualify.
+    Variable Trait. You gain one of the following options of your choice: (a) darkvision with a range of 60 feet or (b) proficiency in one skill of your choice.
+    Languages. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
+    Your race is considered to be a Custom Lineage for any game feature that requires a certain race, such as elf or dwarf.
+    
+    Source: TCE, page 8
 
-Ability Scores: Choose any +2
-Size: Small or Medium
-Speed: 30 ft.
-Instead of choosing one of the game's races for your character at 1st level, you can use the following traits to represent your character's lineage, giving you full control over how your character's origin shaped them:
+## Background Features:
+??? "Rune Carver"
 
-Creature Type. You are a humanoid. You determine your appearance and whether you resemble any of your kin.
-Size. You are Small or Medium (your choice).
-Feat. You gain one feat of your choice for which you qualify.
-Variable Trait. You gain one of the following options of your choice: (a) darkvision with a range of 60 feet or (b) proficiency in one skill of your choice.
-Languages. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
-Your race is considered to be a Custom Lineage for any game feature that requires a certain race, such as elf or dwarf.
+    Skill Proficiencies: History, Perception
+    
+    Tool Proficiencies: One set of artisan's tools
+    
+    Languages: Giant
+    
+    Equipment: A set of artisan's tools (one of your choice), a small knife, a whetstone, a set of common clothes, and a pouch containing 10 gp
+    
+    Rune Styles
+    Each rune carver has a unique style and preferred medium. To determine how you make your runes, you can roll on the Rune Style table.
+    
+    Rune Style
+    d6	Style
+    1	You inscribe runes in wax or clay with a fine metal needle.
+    2	You whittle pieces of wood into small figurines you mark with runes.
+    3	You engrave runes onto glass beads and thread them onto necklaces and bracelets.
+    4	You stitch runes into the hems of clothing.
+    5	You carve runes on a set of animal bones you can throw in different formations.
+    6	You draw runes into candles, melting the wax to smooth over the engravings.
+    Building a Rune Carver Character
+    Scholarly pursuits, ancient mysteries, or a fateful encounter might inspire a character to pursue the secrets of a rune carver.
+    
+    Feature: Rune Shaper
+    You gain the Rune Shaper feat.
+    
+    Suggested Characteristics
+    The Rune Carver Personality Traits table suggests a variety of traits you might adopt for your character.
+    
+    d6	Personality Trait
+    1	Is it practical to learn an ancient language that is rarely spoken? No. But is it fun? Very.
+    2	I learned one of my ancestors was a lauded rune carver whose story was lost to time. I seek to rekindle that legacy.
+    3	The old, traditional markings of runecraft look so boring. Why not give my runes some flair?
+    4	In my studies of runes, I strive to understand how great civilizations of the past fell, so I can prevent it from happening to societies of the present.
+    5	Life may be a whirlwind of chaos, but whenever I create my runes, I feel at peace.
+    6	My brain struggles to process words written in ink, but the feeling of carved runes makes my mind sing.
+    Source: BGG, page 12
 
-Source: TCE, page 8
-
-Background Features:
-Rune Carver
-
-Skill Proficiencies: History, Perception
-
-Tool Proficiencies: One set of artisan's tools
-
-Languages: Giant
-
-Equipment: A set of artisan's tools (one of your choice), a small knife, a whetstone, a set of common clothes, and a pouch containing 10 gp
-
-Rune Styles
-Each rune carver has a unique style and preferred medium. To determine how you make your runes, you can roll on the Rune Style table.
-
-Rune Style
-d6	Style
-1	You inscribe runes in wax or clay with a fine metal needle.
-2	You whittle pieces of wood into small figurines you mark with runes.
-3	You engrave runes onto glass beads and thread them onto necklaces and bracelets.
-4	You stitch runes into the hems of clothing.
-5	You carve runes on a set of animal bones you can throw in different formations.
-6	You draw runes into candles, melting the wax to smooth over the engravings.
-Building a Rune Carver Character
-Scholarly pursuits, ancient mysteries, or a fateful encounter might inspire a character to pursue the secrets of a rune carver.
-
-Feature: Rune Shaper
-You gain the Rune Shaper feat.
-
-Suggested Characteristics
-The Rune Carver Personality Traits table suggests a variety of traits you might adopt for your character.
-
-d6	Personality Trait
-1	Is it practical to learn an ancient language that is rarely spoken? No. But is it fun? Very.
-2	I learned one of my ancestors was a lauded rune carver whose story was lost to time. I seek to rekindle that legacy.
-3	The old, traditional markings of runecraft look so boring. Why not give my runes some flair?
-4	In my studies of runes, I strive to understand how great civilizations of the past fell, so I can prevent it from happening to societies of the present.
-5	Life may be a whirlwind of chaos, but whenever I create my runes, I feel at peace.
-6	My brain struggles to process words written in ink, but the feeling of carved runes makes my mind sing.
-Source: BGG, page 12
-
-Class Features:
-Witch:
+## Class Features:
+### Witch:
 Spellcasting
 You have learned to mold and reshape the magic that curses you into spells.
 CANTRIPS
@@ -225,7 +225,7 @@ Spell Level Spells
 HEX: REMEDY
 At 3rd level, you learn a hex which closes wounds and eases pain. As an action, choose one creature you can see within 60 feet. This creature regains a number of hit points equal to 1d10 + your witch level. A creature which regains hit points from this hex can’t be affected by it again until it finishes a short or long rest.
 
-Savant:
+### Savant:
 Adroit Analysis
 You can focus your mind to analyze your foe. Beginning at 1st level, you can use a bonus action to analyze one creature you can see within 60 feet, designating it as your Focus. While it is your Focus, you gain the following benefits against it: When you hit it with an attack, or if you observe it for 1 minute, you learn one of the following characteristics of your choice: its highest ability score, lowest ability score, Armor Class, speed, creature type, or one special sense. You can use your Intelligence, instead of your Strength or Dexterity, for weapon attack and damage rolls against it. Once per turn when you hit it with an attack, you deal 1d6 bonus damage. The bonus increases as you gain levels, to match the Intellect Die column of the Savant table above. Any attacks it makes against you have disadvantage. The creature remains your Focus indefinitely. Though, this effect ends if your Focus is hidden from you, if you designate another creature as your Focus, or if you are incapacitated. While you have a Focus, you cannot concentrate on spells or other features that would require your concentration.
 Predictive Defense
@@ -279,8 +279,8 @@ Spellcasting Ability: Chr
 Spell Save DC 17
 Spell Atk Bonus: +9
 
-Spells:
-Cantrips:
+## Spells:
+### Cantrips:
 ELDRITCH ORB
 Evocation cantrip
 Casting Time: 1 action
@@ -373,6 +373,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 Source: PHB, page 269. Available in the SRD.
 
+### 1st Level
 Bless
 
 1st-level enchantment
@@ -499,6 +500,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 Source: PHB, page 284. Available in the SRD.
 
+### 2nd Level
 Hold Person
 
 2nd-level enchantment
@@ -548,7 +550,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 Source: PHB, page 275. Available in the SRD and the Basic Rules.
 
-
+### 3rd Level
 Beacon of Hope
 
 3rd-level abjuration
