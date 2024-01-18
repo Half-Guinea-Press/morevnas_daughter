@@ -1,74 +1,73 @@
-Character Name: Ansa Khenbish Morevna
-Class: Witch (White Magic) 5 / Savant (Physician) 5
-Race: Custom Lineage (Half Human)
-Background: Rune Carver
-Alignment: Lawful Neutral
-Player Name: Maddie
-Experience Points:
+- Character Name: Ansa Khenbish Morevna
+- Class: Witch (White Magic) 5 / Savant (Physician) 5
+- Race: Custom Lineage (Half Human)
+- Background: Rune Carver
+- Alignment: Lawful Neutral
+- Player Name: Maddie
+- Experience Points:
 
-Str: +2(14)
-Dex: +2 (15)
-Con: +3(16)
-Int: +5(20)
-Wis: +3(16)
-Chr: +5(20)
+- Str: +2(14)
+- Dex: +2 (15)
+- Con: +3(16)
+- Int: +5(20)
+- Wis: +3(16)
+- Chr: +5(20)
 
 Proficiency Bonus: +4
 
 Saving Throws
-Str: +2
-Dex: +2
-Con: +3
-Int: +5
-Wis: +7(P)
-Chr: +9(P)
+- Str: +2
+- Dex: +2
+- Con: +3
+- Int: +5
+- Wis: +7(P)
+- Chr: +9(P)
 
 Skills
-Acrobatics: +2
-Animal Handling: +3
-Arcana: +9(P)
-Athletics: +2
-Deception: +9(P)
-History: +9(P)
-Insight: +7(P)
-Intimidation: +5
-Investigation: +5
-Medicine: +9(P)
-Nature: +5
-Perception: +7(P)
-Performance: +5
-Persuasion: +9(P)
-Sleight of Hand: +6(P)
-Stealth: +6(P)
-Survival: +3
+- Acrobatics: +2
+- Animal Handling: +3
+- Arcana: +9(P)
+- Athletics: +2
+- Deception: +9(P)
+- History: +9(P)
+- Insight: +7(P)
+- Intimidation: +5
+- Investigation: +5
+- Medicine: +9(P)
+- Nature: +5
+- Perception: +7(P)
+- Performance: +5
+- Persuasion: +9(P)
+- Sleight of Hand: +6(P)
+- Stealth: +6(P)
+- Survival: +3
 
-Passive Perception: 17
-Passive Investigation: 15
-Passive Insight: 17
+- Passive Perception: 17
+- Passive Investigation: 15
+- Passive Insight: 17
 
 Proficiencies:
-Armor: Light Armor
-Weapons: Simple Weapons, Blowguns, Short Swords, Whips
-Tools: Alchemist's Supplies, Herbalist Kit, Poisoner's Kit, Weaver's Tools
+- Armor: Light Armor
+- Weapons: Simple Weapons, Blowguns, Short Swords, Whips
+- Tools: Alchemist's Supplies, Herbalist Kit, Poisoner's Kit, Weaver's Tools
 
 Armor Class: 
-Studded Leather: 17
-No Armor: 15
+- Studded Leather: 17
+- No Armor: 15
 
 Speed 30
 
 Hit Points
-Hit Dice: d8
-# of Hit Dice 10
+Hit Dice: 10d8
 
 Feats:
-Cartomancer
-You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
-Card Tricks. You learn the Prestidigitation cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use Prestidigitation in this way, you can conceal the verbal and somatic components of the spell as ordinary conversation and card handling.
-
-Hidden Ace. When you finish a long rest, you can choose one spell from your class's spell list and imbue that spell into a card. The chosen spell must have a casting time of 1 action, and it must be a level for which you have spell slots. The card remains imbued with this spell for 8 hours. While the card is imbued with the spell, you can use a bonus action to flourish the card and cast the spell within. The card then immediately loses its magic.
-
-Source: BMT, page 49
+??? tip "Cartomancer"
+   You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
+   Card Tricks. You learn the Prestidigitation cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use Prestidigitation in this way, you can conceal the verbal and somatic components of the spell as ordinary conversation and card handling.
+   
+   Hidden Ace. When you finish a long rest, you can choose one spell from your class's spell list and imbue that spell into a card. The chosen spell must have a casting time of 1 action, and it must be a level for which you have spell slots. The card remains imbued with this spell for 8 hours. While the card is imbued with the spell, you can use a bonus action to flourish the card and cast the spell within. The card then immediately loses its magic.
+   
+   Source: BMT, page 49
 
 Rune Shaper: Enemy, Friend
 Prerequisites: Spellcasting Feature or Rune Carver
