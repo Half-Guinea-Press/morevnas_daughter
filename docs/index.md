@@ -1,5 +1,6 @@
-# Character Name: Ansa Khenbish Morevna
+# Ansa Needle Breaker
 ??? inline end "Character Information"
+    _ Character Name: Ansa Khenbish Morevna
     - Class: Witch (White Magic) 5 / Savant (Physician) 5
     - Race: Custom Lineage (Half Human)
     - Background: Rune Carver
@@ -7,61 +8,41 @@
     - Player Name: Maddie
     - Experience Points:
 
-|       | Ability Score | Saving Throw |
-| :---: | :-----------: | :----------: |
-| 'Str' | +2(14)        | +2           |
-| 'Dex' | +2(15)        | +2           |
-| 'Con' | +3(16)        | +3           |
-| 'Int' | +5(20)        | +5           |
-| 'Wis' | +3(16)        | +7(P)        |
-| 'Chr' | +5(20)        | +9(P)        |
+|       | Ability Score | Saving Throw | Proficiency Bonus |
+| :---: | :-----------: | :----------: | :---------------: |
+| 'Str' | +2(14)        | +2           | +4                |
+| 'Dex' | +2(15)        | +2           |                   |
+| 'Con' | +3(16)        | +3           |                   |
+| 'Int' | +5(20)        | +5           |                   |
+| 'Wis' | +3(16)        | +7(P)        |                   |
+| 'Chr' | +5(20)        | +9(P)        |                   |
 
-## Ability Scores
-- Str: +2(14)
-- Dex: +2 (15)
-- Con: +3(16)
-- Int: +5(20)
-- Wis: +3(16)
-- Chr: +5(20)
-
-## Proficiency Bonus: +4
-
-## Saving Throws
-- Str: +2
-- Dex: +2
-- Con: +3
-- Int: +5
-- Wis: +7(P)
-- Chr: +9(P)
-
-## Skills
-- Acrobatics: +2
-- Animal Handling: +3
-- Arcana: +9(P)
-- Athletics: +2
-- Deception: +9(P)
-- History: +9(P)
-- Insight: +7(P)
-- Intimidation: +5
-- Investigation: +5
-- Medicine: +9(P)
-- Nature: +5
-- Perception: +7(P)
-- Performance: +5
-- Persuasion: +9(P)
-- Sleight of Hand: +6(P)
-- Stealth: +6(P)
-- Survival: +3
-
-## Passive Skills
-- Passive Perception: 17
-- Passive Investigation: 15
-- Passive Insight: 17
-
-## Proficiencies:
-- Armor: Light Armor
-- Weapons: Simple Weapons, Blowguns, Short Swords, Whips
-- Tools: Alchemist's Supplies, Herbalist Kit, Poisoner's Kit, Weaver's Tools
+=== "Skills"
+    - Acrobatics: +2
+    - Animal Handling: +3
+    - Arcana: +9(P)
+    - Athletics: +2
+    - Deception: +9(P)
+    - History: +9(P)
+    - Insight: +7(P)
+    - Intimidation: +5
+    - Investigation: +5
+    - Medicine: +9(P)
+    - Nature: +5
+    - Perception: +7(P)
+    - Performance: +5
+    - Persuasion: +9(P)
+    - Sleight of Hand: +6(P)
+    - Stealth: +6(P)
+    - Survival: +3
+=== "Passive Skills"
+    - Passive Perception: 17
+    - Passive Investigation: 15
+    - Passive Insight: 17
+=== "Proficiencies:"
+    - Armor: Light Armor
+    - Weapons: Simple Weapons, Blowguns, Short Swords, Whips
+    - Tools: Alchemist's Supplies, Herbalist Kit, Poisoner's Kit, Weaver's Tools
 
 ## Armor Class: 
 - Studded Leather: 17
