@@ -23,23 +23,17 @@
 
     ---
 
-    - Acrobatics: +2
-    - Animal Handling: +3
-    - Arcana: +9(P)
-    - Athletics: +2
-    - Deception: +9(P)
-    - History: +9(P)
-    - Insight: +7(P)
-    - Intimidation: +5
-    - Investigation: +5
-    - Medicine: +9(P)
-    - Nature: +5
-    - Perception: +7(P)
-    - Performance: +5
-    - Persuasion: +9(P)
-    - Sleight of Hand: +6(P)
-    - Stealth: +6(P)
-    - Survival: +3
+    | Proficient        | Not Proficient    |
+    | :---------------: | :---------------: |
+    | Arcana: +9(P)     | Acrobatics: +2    |
+    | Deception: +9(P)  | A. Handling: +3   |
+    | History: +9(P)    | Athletics: +2     |
+    | Insight: +7(P)    | Intimidation: +5  |
+    | Medicine: +9(P)   | Investigation: +5 |
+    | Perception: +7(P) | Nature: +5        |
+    | Persuasion: +9(P) | Performance: +5   |
+    | S. of Hand: +6(P) | Survival: +3      |
+    | Stealth: +6(P)    |                   |
 
 -   Proficiencies:
 
