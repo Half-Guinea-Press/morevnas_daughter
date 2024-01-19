@@ -61,7 +61,7 @@
 
 <div class="grid cards" markdown>
 
--   ## Skills
+-   Skills
 
     ---
 
@@ -83,21 +83,13 @@
     - Stealth: +6(P)
     - Survival: +3
 
--   ## Proficiencies:
+-   Proficiencies:
 
     ---
 
     - Armor: Light Armor
-    - Weapons: 
-        - Simple Weapons
-        - Blowguns
-        - Short Swords
-        - Whips
-    - Tools:
-        - Alchemist's Supplies
-        - Herbalist Kit
-        - Poisoner's Kit
-        - Weaver's Tools
+    - Weapons: Simple Weapons, Blowguns, Short Swords, Whips
+    - Tools: Alchemist's Supplies, Herbalist Kit, Poisoner's Kit, Weaver's Tools
 
 </div>
 
