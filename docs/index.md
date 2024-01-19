@@ -26,12 +26,69 @@ hide:
 
 !!! inline end note ""
 
-    - Character Name: Ansa Khenbish Morevna
-    - Class: Witch (White Magic) 10
-    - Race: Custom Lineage (Half Human)
-    - Background: Rune Carver
-    - Alignment: Lawfull Neutral
+    Character Name: Ansa Khenbish Morevna
 
+    Class: Witch (White Magic) 10
+
+    ??? "Race: Custom Lineage (Half Human)"
+        
+        Ability Scores: Choose any +2
+        Size: Small or Medium
+        Speed: 30 ft.
+        Instead of choosing one of the game's races for your character at 1st level, you can use the following traits to represent your character's lineage, giving you full control over how your character's origin shaped them:
+        
+        Creature Type. You are a humanoid. You determine your appearance and whether you resemble any of your kin.
+        Size. You are Small or Medium (your choice).
+        Feat. You gain one feat of your choice for which you qualify.
+        Variable Trait. You gain one of the following options of your choice: (a) darkvision with a range of 60 feet or (b) proficiency in one skill of your choice.
+        Languages. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
+        Your race is considered to be a Custom Lineage for any game feature that requires a certain race, such as elf or dwarf.
+        
+        Source: TCE, page 8
+
+    ??? "Background: Rune Carver"
+    
+        Skill Proficiencies: History, Perception
+        
+        Tool Proficiencies: One set of artisan's tools
+        
+        Languages: Giant
+        
+        Equipment: A set of artisan's tools (one of your choice), a small knife, a whetstone, a set of common clothes, and a pouch containing 10 gp
+        
+        Rune Styles
+        Each rune carver has a unique style and preferred medium. To determine how you make your runes, you can roll on the Rune Style table.
+        
+        Rune Style
+        d6	Style
+        1	You inscribe runes in wax or clay with a fine metal needle.
+        2	You whittle pieces of wood into small figurines you mark with runes.
+        3	You engrave runes onto glass beads and thread them onto necklaces and bracelets.
+        4	You stitch runes into the hems of clothing.
+        5	You carve runes on a set of animal bones you can throw in different formations.
+        6	You draw runes into candles, melting the wax to smooth over the engravings.
+        Building a Rune Carver Character
+        Scholarly pursuits, ancient mysteries, or a fateful encounter might inspire a character to pursue the secrets of a rune carver.
+        
+        Feature: Rune Shaper
+        You gain the Rune Shaper feat.
+        
+        Suggested Characteristics
+        The Rune Carver Personality Traits table suggests a variety of traits you might adopt for your character.
+        
+        d6	Personality Trait
+        1	Is it practical to learn an ancient language that is rarely spoken? No. But is it fun? Very.
+        2	I learned one of my ancestors was a lauded rune carver whose story was lost to time. I seek to rekindle that legacy.
+        3	The old, traditional markings of runecraft look so boring. Why not give my runes some flair?
+        4	In my studies of runes, I strive to understand how great civilizations of the past fell, so I can prevent it from happening to societies of the present.
+        5	Life may be a whirlwind of chaos, but whenever I create my runes, I feel at peace.
+        6	My brain struggles to process words written in ink, but the feeling of carved runes makes my mind sing.
+        Source: BGG, page 12
+    
+        Alignment: Lawfull Neutral
+
+    Feats:
+	
     ??? "Cartomancer"
         You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
         Card Tricks. You learn the Prestidigitation cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use Prestidigitation in this way, you can conceal the verbal and somatic components of the spell as ordinary conversation and card handling.
@@ -132,108 +189,7 @@ hide:
 	- Languages:
 		- Giant
 		- Common
-
--   Feats:
-
-    ??? "Cartomancer"
-        You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
-        Card Tricks. You learn the Prestidigitation cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use Prestidigitation in this way, you can conceal the verbal and somatic components of the spell as ordinary conversation and card handling.
-        
-        Hidden Ace. When you finish a long rest, you can choose one spell from your class's spell list and imbue that spell into a card. The chosen spell must have a casting time of 1 action, and it must be a level for which you have spell slots. The card remains imbued with this spell for 8 hours. While the card is imbued with the spell, you can use a bonus action to flourish the card and cast the spell within. The card then immediately loses its magic.
-        
-        Source: BMT, page 49
-        
-    ??? "Rune Shaper: Enemy, Friend"
-        Prerequisites: Spellcasting Feature or Rune Carver
-        You've studied the magic of Giant runes, granting you the following benefits:
-        Comprehend Languages. You learn the comprehend languages spell. You can cast this spell without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using any spell slots you have.
-        
-        Rune Magic. You know a number of runes equal to half your proficiency bonus (rounded down), chosen from the Rune Spells table. Whenever you finish a long rest, you can inscribe each rune you know onto one nonmagical weapon, armor, piece of clothing, or other object you touch. You temporarily learn the 1st-level spells that correspond to the runes you inscribed, as specified on the Rune Spells table, and you know those spells until you finish a long rest, when the runes fade. While you are wearing or carrying any rune-marked object, you can cast the spells associated with those runes using any spell slots you have.
-        You can also invoke a rune inscribed on an object you are wearing or carrying and cast its associated spell without expending a spell slot or using material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Your spellcasting ability for this feat is Intelligence, Wisdom, or Charisma (choose when you select this feat).
-        Each time you gain a level, you can replace one of the runes you know with another one from the Rune Spells table.
-        
-        Rune	Spell
-        Cloud	Fog cloud
-        Death	Inflict wounds
-        Dragon	Chromatic orb
-        Enemy	Disguise self
-        Fire	Burning hands
-        Friend	Speak with animals
-        Frost	Armor of Agathys
-        Hill	Goodberry
-        Journey	Longstrider
-        King	Command
-        Mountain	Entangle
-        Stone	Sanctuary
-        Storm	Thunderwave
-        Source: BGG, page 18
-        
-    ??? "Telekinetic: Chr"
-        
-        You learn to move things with your mind, granting you the following benefits:
-        Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
-        You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
-        As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
-        Source: TCE, page 81 
-
 </div>
-
-## Racial Features: 
-??? "Custom Lineage"
-    
-    Ability Scores: Choose any +2
-    Size: Small or Medium
-    Speed: 30 ft.
-    Instead of choosing one of the game's races for your character at 1st level, you can use the following traits to represent your character's lineage, giving you full control over how your character's origin shaped them:
-    
-    Creature Type. You are a humanoid. You determine your appearance and whether you resemble any of your kin.
-    Size. You are Small or Medium (your choice).
-    Feat. You gain one feat of your choice for which you qualify.
-    Variable Trait. You gain one of the following options of your choice: (a) darkvision with a range of 60 feet or (b) proficiency in one skill of your choice.
-    Languages. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
-    Your race is considered to be a Custom Lineage for any game feature that requires a certain race, such as elf or dwarf.
-    
-    Source: TCE, page 8
-
-## Background Features:
-??? "Rune Carver"
-
-    Skill Proficiencies: History, Perception
-    
-    Tool Proficiencies: One set of artisan's tools
-    
-    Languages: Giant
-    
-    Equipment: A set of artisan's tools (one of your choice), a small knife, a whetstone, a set of common clothes, and a pouch containing 10 gp
-    
-    Rune Styles
-    Each rune carver has a unique style and preferred medium. To determine how you make your runes, you can roll on the Rune Style table.
-    
-    Rune Style
-    d6	Style
-    1	You inscribe runes in wax or clay with a fine metal needle.
-    2	You whittle pieces of wood into small figurines you mark with runes.
-    3	You engrave runes onto glass beads and thread them onto necklaces and bracelets.
-    4	You stitch runes into the hems of clothing.
-    5	You carve runes on a set of animal bones you can throw in different formations.
-    6	You draw runes into candles, melting the wax to smooth over the engravings.
-    Building a Rune Carver Character
-    Scholarly pursuits, ancient mysteries, or a fateful encounter might inspire a character to pursue the secrets of a rune carver.
-    
-    Feature: Rune Shaper
-    You gain the Rune Shaper feat.
-    
-    Suggested Characteristics
-    The Rune Carver Personality Traits table suggests a variety of traits you might adopt for your character.
-    
-    d6	Personality Trait
-    1	Is it practical to learn an ancient language that is rarely spoken? No. But is it fun? Very.
-    2	I learned one of my ancestors was a lauded rune carver whose story was lost to time. I seek to rekindle that legacy.
-    3	The old, traditional markings of runecraft look so boring. Why not give my runes some flair?
-    4	In my studies of runes, I strive to understand how great civilizations of the past fell, so I can prevent it from happening to societies of the present.
-    5	Life may be a whirlwind of chaos, but whenever I create my runes, I feel at peace.
-    6	My brain struggles to process words written in ink, but the feeling of carved runes makes my mind sing.
-    Source: BGG, page 12
 
 ## Class Features:
 ### Witch:
