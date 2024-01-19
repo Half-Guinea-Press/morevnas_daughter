@@ -64,6 +64,7 @@
 - ## Skills
 
     ---
+
     - Acrobatics: +2
     - Animal Handling: +3
     - Arcana: +9(P)
@@ -83,17 +84,20 @@
     - Survival: +3
 
 - ## Proficiencies:
+
+    ---
+
     - Armor: Light Armor
     - Weapons: 
         * Simple Weapons
-		* Blowguns
-		* Short Swords
-		* Whips
+        * Blowguns
+        * Short Swords
+        * Whips
     - Tools:
         * Alchemist's Supplies
-		* Herbalist Kit
-		* Poisoner's Kit
-		* Weaver's Tools
+        * Herbalist Kit
+        * Poisoner's Kit
+        * Weaver's Tools
 
 </div>
 
