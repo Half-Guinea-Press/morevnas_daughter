@@ -23,17 +23,17 @@
 
     ---
 
-    | Proficient        | Not Proficient    |
-    | :---------------: | :---------------: |
-    | Arcana: +9(P)     | Acrobatics: +2    |
-    | Deception: +9(P)  | A. Handling: +3   |
-    | History: +9(P)    | Athletics: +2     |
-    | Insight: +7(P)    | Intimidation: +5  |
-    | Medicine: +9(P)   | Investigation: +5 |
-    | Perception: +7(P) | Nature: +5        |
-    | Persuasion: +9(P) | Performance: +5   |
-    | S. of Hand: +6(P) | Survival: +3      |
-    | Stealth: +6(P)    |                   |
+    | Proficient  |     | Not Proficient |     |
+    | :---------- | :-: | :------------- | :-: |
+    | Arcana:     | +9  | Acrobatics:    | +2  |
+    | Deception:  | +9  | A. Handling:   | +3  |
+    | History:    | +9  | Athletics:     | +2  |
+    | Insight:    | +7  | Intimidation:  | +5  |
+    | Medicine:   | +9  | Investigation: | +5  |
+    | Perception: | +7  | Nature:        | +5  |
+    | Persuasion: | +9  | Performance:   | +5  |
+    | S. of Hand: | +6  | Survival:      | +3  |
+    | Stealth:    | +6  |                |     |
 
 -   Proficiencies:
 
@@ -50,6 +50,9 @@
 		- Herbalist Kit
 		- Poisoner's Kit
 		- Weaver's Tools
+	- Languages:
+		- Giant
+		- Common
 
 -   Feats:
 
