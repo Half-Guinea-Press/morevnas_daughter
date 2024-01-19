@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Ansa Needle Breaker
 
 | Character Name: | Class | Lvl | Subclass    | Race                        | Background  | Alignment      |
