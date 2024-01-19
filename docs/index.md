@@ -89,15 +89,15 @@
 
     - Armor: Light Armor
     - Weapons: 
-        * Simple Weapons
-        * Blowguns
-        * Short Swords
-        * Whips
+        - Simple Weapons
+        - Blowguns
+        - Short Swords
+        - Whips
     - Tools:
-        * Alchemist's Supplies
-        * Herbalist Kit
-        * Poisoner's Kit
-        * Weaver's Tools
+        - Alchemist's Supplies
+        - Herbalist Kit
+        - Poisoner's Kit
+        - Weaver's Tools
 
 </div>
 
