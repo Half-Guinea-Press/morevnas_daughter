@@ -17,18 +17,14 @@
 <div class="grid cards" markdown>
 
 -   Proficiency Bonus: +4
-
--   Speed: 30
-
--   Iniative: +7
+    Speed: 30
+    Iniative: +7
 
 -   Armor Class
-
     - Studded Leather: 17
     - No Armor:        15
 
 -   Hit Points
-
     - Hit Point Max: 103
 	- Hit Dice:     10d8
 
