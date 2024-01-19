@@ -5,26 +5,25 @@
 | Ansa Khenbish   | Witch | 10  | White Magic | Custom Lineage (Half-Human) | Rune Carver | Lawful Neutral |
 
 !!! inline note "Ability Scores"
-    | Ability | Score   | Save   |
-    | :------ | :-----: | :----: |
-    | Str     | +2(14)  | +2     |
-    | Dex     | +2(15)  | +2     |
-    | Con     | +3(16)  | +3     |
-    | Int     | +5(20)  | +5     |
-    | Wis     | +3(16)  | +7(P)  |
-    | Chr     | +5(20)  | +9(P)  |
+    - Str +2(14)
+    - Dex +2(15)
+    - Con +3(16)
+    - Int +5(20)
+    - Wis +3(16)
+    - Chr +5(20)
 
 <div class="grid cards" markdown>
 
 -   Proficiency Bonus: +4
-    Speed: 30
-    Iniative: +7
 
--   Armor Class
-    - Studded Leather: 17
-    - No Armor:        15
+-   Speed: 30
+
+-   Iniative: +7
+
+-   Armor Class: 17
 
 -   Hit Points
+
     - Hit Point Max: 103
 	- Hit Dice:     10d8
 
