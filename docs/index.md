@@ -59,7 +59,7 @@
 | 'Wis'   | +3(16)  | +7(P)  | HP Max: 103     |                           |
 | 'Chr'   | +5(20)  | +9(P)  | Hit Dice: 10d8  |                           |
 
-<div grid class="grid cards" markdown>
+<div class="grid cards" markdown>
 
 - ## Skills
 
