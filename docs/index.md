@@ -13,15 +13,6 @@
     | Int     | +5(20)  | +5     |
     | Wis     | +3(16)  | +7(P)  |
     | Chr     | +5(20)  | +9(P)  |
-    
-    |                 |                           |
-    | :-------------: | :-----------------------: |
-    | Prof. Bonus: +4 | Passive Perception:    17 |
-    | Speed: 30       | Passive Investigation: 15 |
-    | Initiative: +7  | Passive Insight:       17 |
-    | Armor Class: 17 |                           |
-    | HP Max: 103     |                           |
-    | Hit Dice: 10d8  |                           |
 
 <div class="grid cards" markdown>
 
@@ -41,6 +32,12 @@
     - Hit Point Max: 103
 	- Hit Dice:     10d8
 
+-   Passive Skills
+
+	- Passive Perception:    17
+	- Passive Investigation: 15
+	 -Passive Insight:       17
+
 -   Proficient Skills
 
     - Arcana      +9
@@ -52,7 +49,6 @@
     - Persuasion  +9
     - S. of Hand  +6
     - Stealth     +6
-
 
 -   Non-Proficient Skills
 
