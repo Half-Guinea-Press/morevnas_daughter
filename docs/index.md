@@ -1,14 +1,8 @@
 # Ansa Needle Breaker
 
-| Character Name: | Class                  | Background  | 
-| :-------------- | :--------------------- | :---------- |
-| Ansa Khenbish   | Witch (White Magic) 10 | Rune Carver |
-
-
-    Race: Custom Lineage (Half Human)
-    Alignment: Lawful Neutral
-    Player Name: Maddie
-    Experience Points:
+| Character Name: | Class | Lvl | Subclass    | Race                        | Background  | Alignment      |
+| :-------------- | :---- | :-: | :---------- | :-------------------------- | :---------- | :------------- |
+| Ansa Khenbish   | Witch | 10  | White Magic | Custom Lineage (Half-Human) | Rune Carver | Lawful Neutral |
 
 !!! inline note "Ability Scores"
     | Ability | Score   | Save   |
