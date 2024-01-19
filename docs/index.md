@@ -61,7 +61,7 @@
 
 <div class="grid cards" markdown>
 
-- ## Skills
+-   ## Skills
 
     ---
 
@@ -83,7 +83,7 @@
     - Stealth: +6(P)
     - Survival: +3
 
-- ## Proficiencies:
+-   ## Proficiencies:
 
     ---
 
