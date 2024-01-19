@@ -7,16 +7,57 @@
     - Alignment: Lawful Neutral
     - Player Name: Maddie
     - Experience Points:
+	
+??? inline end "Feats"
+    ### Cartomancer
+    You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
+    Card Tricks. You learn the Prestidigitation cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use Prestidigitation in this way, you can conceal the verbal and somatic components of the spell as ordinary conversation and card handling.
+    
+    Hidden Ace. When you finish a long rest, you can choose one spell from your class's spell list and imbue that spell into a card. The chosen spell must have a casting time of 1 action, and it must be a level for which you have spell slots. The card remains imbued with this spell for 8 hours. While the card is imbued with the spell, you can use a bonus action to flourish the card and cast the spell within. The card then immediately loses its magic.
+    
+    Source: BMT, page 49
+    
+    ### Rune Shaper: Enemy, Friend
+    Prerequisites: Spellcasting Feature or Rune Carver
+    You've studied the magic of Giant runes, granting you the following benefits:
+    Comprehend Languages. You learn the comprehend languages spell. You can cast this spell without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using any spell slots you have.
+    
+    Rune Magic. You know a number of runes equal to half your proficiency bonus (rounded down), chosen from the Rune Spells table. Whenever you finish a long rest, you can inscribe each rune you know onto one nonmagical weapon, armor, piece of clothing, or other object you touch. You temporarily learn the 1st-level spells that correspond to the runes you inscribed, as specified on the Rune Spells table, and you know those spells until you finish a long rest, when the runes fade. While you are wearing or carrying any rune-marked object, you can cast the spells associated with those runes using any spell slots you have.
+    You can also invoke a rune inscribed on an object you are wearing or carrying and cast its associated spell without expending a spell slot or using material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Your spellcasting ability for this feat is Intelligence, Wisdom, or Charisma (choose when you select this feat).
+    Each time you gain a level, you can replace one of the runes you know with another one from the Rune Spells table.
+    
+    Rune	Spell
+    Cloud	Fog cloud
+    Death	Inflict wounds
+    Dragon	Chromatic orb
+    Enemy	Disguise self
+    Fire	Burning hands
+    Friend	Speak with animals
+    Frost	Armor of Agathys
+    Hill	Goodberry
+    Journey	Longstrider
+    King	Command
+    Mountain	Entangle
+    Stone	Sanctuary
+    Storm	Thunderwave
+    Source: BGG, page 18
+    
+    ### Telekinetic: Chr
+    
+    You learn to move things with your mind, granting you the following benefits:
+    Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+    You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
+    As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
+    Source: TCE, page 81
 
-|       | Ability | Saving |                 |                           |
-|       | Score   | Throw  |                 |                           |
-| :---: | :-----: | :----: | :-------------: | :-----------------------: |
-| 'Str' | +2(14)  | +2     | Prof. Bonus: +4 | Passive Perception:    17 |
-| 'Dex' | +2(15)  | +2     | Speed: 30       | Passive Investigation: 15 |
-| 'Con' | +3(16)  | +3     | Initiative: +7  | Passive Insight:       17 |
-| 'Int' | +5(20)  | +5     | Armor Class: 17 |                           |
-| 'Wis' | +3(16)  | +7(P)  | HP Max: 103     |                           |
-| 'Chr' | +5(20)  | +9(P)  | Hit Dice: 10d8  |                           |
+| Ability | Score   | Save   |                 |                           |
+| :-----: | :-----: | :----: | :-------------: | :-----------------------: |
+| 'Str'   | +2(14)  | +2     | Prof. Bonus: +4 | Passive Perception:    17 |
+| 'Dex'   | +2(15)  | +2     | Speed: 30       | Passive Investigation: 15 |
+| 'Con'   | +3(16)  | +3     | Initiative: +7  | Passive Insight:       17 |
+| 'Int'   | +5(20)  | +5     | Armor Class: 17 |                           |
+| 'Wis'   | +3(16)  | +7(P)  | HP Max: 103     |                           |
+| 'Chr'   | +5(20)  | +9(P)  | Hit Dice: 10d8  |                           |
 
 === "Skills"
     - Acrobatics: +2
@@ -42,47 +83,47 @@
     - Weapons: Simple Weapons, Blowguns, Short Swords, Whips
     - Tools: Alchemist's Supplies, Herbalist Kit, Poisoner's Kit, Weaver's Tools
 
-## Feats:
-??? "Cartomancer"
-    You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
-    Card Tricks. You learn the Prestidigitation cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use Prestidigitation in this way, you can conceal the verbal and somatic components of the spell as ordinary conversation and card handling.
-    
-    Hidden Ace. When you finish a long rest, you can choose one spell from your class's spell list and imbue that spell into a card. The chosen spell must have a casting time of 1 action, and it must be a level for which you have spell slots. The card remains imbued with this spell for 8 hours. While the card is imbued with the spell, you can use a bonus action to flourish the card and cast the spell within. The card then immediately loses its magic.
-    
-    Source: BMT, page 49
+??? inline end "Feats"
+### Cartomancer
+You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
+Card Tricks. You learn the Prestidigitation cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use Prestidigitation in this way, you can conceal the verbal and somatic components of the spell as ordinary conversation and card handling.
 
-??? "Rune Shaper: Enemy, Friend"
-    Prerequisites: Spellcasting Feature or Rune Carver
-    You've studied the magic of Giant runes, granting you the following benefits:
-    Comprehend Languages. You learn the comprehend languages spell. You can cast this spell without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using any spell slots you have.
-    
-    Rune Magic. You know a number of runes equal to half your proficiency bonus (rounded down), chosen from the Rune Spells table. Whenever you finish a long rest, you can inscribe each rune you know onto one nonmagical weapon, armor, piece of clothing, or other object you touch. You temporarily learn the 1st-level spells that correspond to the runes you inscribed, as specified on the Rune Spells table, and you know those spells until you finish a long rest, when the runes fade. While you are wearing or carrying any rune-marked object, you can cast the spells associated with those runes using any spell slots you have.
-    You can also invoke a rune inscribed on an object you are wearing or carrying and cast its associated spell without expending a spell slot or using material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Your spellcasting ability for this feat is Intelligence, Wisdom, or Charisma (choose when you select this feat).
-    Each time you gain a level, you can replace one of the runes you know with another one from the Rune Spells table.
-    
-    Rune	Spell
-    Cloud	Fog cloud
-    Death	Inflict wounds
-    Dragon	Chromatic orb
-    Enemy	Disguise self
-    Fire	Burning hands
-    Friend	Speak with animals
-    Frost	Armor of Agathys
-    Hill	Goodberry
-    Journey	Longstrider
-    King	Command
-    Mountain	Entangle
-    Stone	Sanctuary
-    Storm	Thunderwave
-    Source: BGG, page 18
+Hidden Ace. When you finish a long rest, you can choose one spell from your class's spell list and imbue that spell into a card. The chosen spell must have a casting time of 1 action, and it must be a level for which you have spell slots. The card remains imbued with this spell for 8 hours. While the card is imbued with the spell, you can use a bonus action to flourish the card and cast the spell within. The card then immediately loses its magic.
 
-??? "Telekinetic: Chr"
+Source: BMT, page 49
 
-    You learn to move things with your mind, granting you the following benefits:
-    Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
-    You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
-    As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
-    Source: TCE, page 81
+### Rune Shaper: Enemy, Friend
+Prerequisites: Spellcasting Feature or Rune Carver
+You've studied the magic of Giant runes, granting you the following benefits:
+Comprehend Languages. You learn the comprehend languages spell. You can cast this spell without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using any spell slots you have.
+
+Rune Magic. You know a number of runes equal to half your proficiency bonus (rounded down), chosen from the Rune Spells table. Whenever you finish a long rest, you can inscribe each rune you know onto one nonmagical weapon, armor, piece of clothing, or other object you touch. You temporarily learn the 1st-level spells that correspond to the runes you inscribed, as specified on the Rune Spells table, and you know those spells until you finish a long rest, when the runes fade. While you are wearing or carrying any rune-marked object, you can cast the spells associated with those runes using any spell slots you have.
+You can also invoke a rune inscribed on an object you are wearing or carrying and cast its associated spell without expending a spell slot or using material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Your spellcasting ability for this feat is Intelligence, Wisdom, or Charisma (choose when you select this feat).
+Each time you gain a level, you can replace one of the runes you know with another one from the Rune Spells table.
+
+Rune	Spell
+Cloud	Fog cloud
+Death	Inflict wounds
+Dragon	Chromatic orb
+Enemy	Disguise self
+Fire	Burning hands
+Friend	Speak with animals
+Frost	Armor of Agathys
+Hill	Goodberry
+Journey	Longstrider
+King	Command
+Mountain	Entangle
+Stone	Sanctuary
+Storm	Thunderwave
+Source: BGG, page 18
+
+### Telekinetic: Chr
+
+You learn to move things with your mind, granting you the following benefits:
+Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
+As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
+Source: TCE, page 81
 
 ## Racial Features: 
 ??? "Custom Lineage"
