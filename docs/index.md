@@ -10,7 +10,7 @@
     Player Name: Maddie
     Experience Points:
 
-=== inline "Ability Scores"
+=== inline note "Ability Scores"
     | Ability | Score   | Save   |
     | :------ | :-----: | :----: |
     | Str     | +2(14)  | +2     |
