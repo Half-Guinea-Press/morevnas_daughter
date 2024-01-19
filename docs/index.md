@@ -6,6 +6,9 @@ hide:
 
 # Ansa Needle Breaker
 
+!!! note ""
+Character Name: Ansa Khenbish Morevna    Class: Witch (White Magic) 10    Race: Half Human(Custom Lineage)    Background: Rune Carver    Alignment: Lawfull Neutral
+
 !!! inline note ""
 
     - Ability Scores
@@ -25,10 +28,6 @@ hide:
         - Chr +9(P)
 
 !!! inline end note ""
-
-    Character Name: Ansa Khenbish Morevna
-
-    Class: Witch (White Magic) 10
 
     ??? "Race: Custom Lineage (Half Human)"
         
@@ -84,8 +83,6 @@ hide:
         5	Life may be a whirlwind of chaos, but whenever I create my runes, I feel at peace.
         6	My brain struggles to process words written in ink, but the feeling of carved runes makes my mind sing.
         Source: BGG, page 12
-    
-        Alignment: Lawfull Neutral
 
     Feats:
 	
