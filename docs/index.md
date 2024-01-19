@@ -37,16 +37,15 @@ hide:
 
 -   Proficiency Bonus: +4
 
--   Speed: 30
+    Iniative: +7
 
--   Iniative: +7
+    Speed: 30
 
 -   Armor Class: 17
 
--   Hit Points
+    Hit Point Max: 103
 
-    - Hit Point Max: 103
-	- Hit Dice:     10d8
+    Hit Dice:     10d8
 
 -   Passive Skills
 
