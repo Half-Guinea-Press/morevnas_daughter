@@ -1,15 +1,15 @@
 # Ansa Needle Breaker
 ??? inline end "Character Information"
-    _ Character Name: Ansa Khenbish Morevna
-    - Class: Witch (White Magic) 5 / Savant (Physician) 5
-    - Race: Custom Lineage (Half Human)
-    - Background: Rune Carver
-    - Alignment: Lawful Neutral
-    - Player Name: Maddie
-    - Experience Points:
-	
-??? inline end "Feats"
-    ### Cartomancer
+    Character Name: Ansa Khenbish Morevna
+    Class: Witch (White Magic) 5 / Savant (Physician) 5
+    Race: Custom Lineage (Half Human)
+    Background: Rune Carver
+    Alignment: Lawful Neutral
+    Player Name: Maddie
+    Experience Points:
+
+    ### Feats
+    #### Cartomancer
     You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
     Card Tricks. You learn the Prestidigitation cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use Prestidigitation in this way, you can conceal the verbal and somatic components of the spell as ordinary conversation and card handling.
     
@@ -17,7 +17,7 @@
     
     Source: BMT, page 49
     
-    ### Rune Shaper: Enemy, Friend
+    #### Rune Shaper: Enemy, Friend
     Prerequisites: Spellcasting Feature or Rune Carver
     You've studied the magic of Giant runes, granting you the following benefits:
     Comprehend Languages. You learn the comprehend languages spell. You can cast this spell without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using any spell slots you have.
