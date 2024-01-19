@@ -25,40 +25,23 @@
 
 <div class="grid cards" markdown>
 
--   Proficiency Bonus
+-   Proficiency Bonus: +4
 
-    ---
+-   Speed: 30
 
-    +4
-
--   Speed
-
-    ---
-
-    30
-
--   Iniative
-    ---
-
-    +7
+-   Iniative: +7
 
 -   Armor Class
 
-    ---
-
-    Studded Leather: 17
-    No Armor:        15
+    - Studded Leather: 17
+    - No Armor:        15
 
 -   Hit Points
 
-    ---
-
-    Hit Point Max: 103
-	Hit Dice:     10d8
+    - Hit Point Max: 103
+	- Hit Dice:     10d8
 
 -   Proficient Skills
-
-    ---
 
     - Arcana      +9
     - Deception   +9
@@ -73,8 +56,6 @@
 
 -   Non-Proficient Skills
 
-    ---
-
     - Acrobatics     +2
     - A. Handling    +3
     - Athletics      +2
@@ -85,8 +66,6 @@
     - Survival       +3
 
 -   Other Proficiencies:
-
-    ---
 
     - Armor: Light Armor
     - Weapons:
@@ -104,8 +83,6 @@
 		- Common
 
 -   Feats:
-
-    ---
 
     ??? "Cartomancer"
         You have learned to channel your magic through a deck of cards. You can use a card deck as your spellcasting focus, and you gain the following benefits:
