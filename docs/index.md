@@ -8,14 +8,14 @@
     - Player Name: Maddie
     - Experience Points:
 
-|       | Ability Score | Saving Throw | Proficiency Bonus |
-| :---: | :-----------: | :----------: | :---------------: |
-| 'Str' | +2(14)        | +2           | +4                |
-| 'Dex' | +2(15)        | +2           |                   |
-| 'Con' | +3(16)        | +3           |                   |
-| 'Int' | +5(20)        | +5           |                   |
-| 'Wis' | +3(16)        | +7(P)        |                   |
-| 'Chr' | +5(20)        | +9(P)        |                   |
+|       | Ability Score | Saving Throw |                       |                           |
+| :---: | :-----------: | :----------: | :-------------------: | :-----------------------: |
+| 'Str' | +2(14)        | +2           | Proficiency Bonus: +4 | Passive Perception:    17 |
+| 'Dex' | +2(15)        | +2           | Speed: 30             | Passive Investigation: 15 |
+| 'Con' | +3(16)        | +3           | Initiative: +7        | Passive Insight:       17 |
+| 'Int' | +5(20)        | +5           | Armor Class: 17       |                           |                 
+| 'Wis' | +3(16)        | +7(P)        | HP Max: 103           |                           |
+| 'Chr' | +5(20)        | +9(P)        | Hit Dice: 10d8        |                           |
 
 === "Skills"
     - Acrobatics: +2
@@ -35,24 +35,11 @@
     - Sleight of Hand: +6(P)
     - Stealth: +6(P)
     - Survival: +3
-=== "Passive Skills"
-    - Passive Perception: 17
-    - Passive Investigation: 15
-    - Passive Insight: 17
+
 === "Proficiencies:"
     - Armor: Light Armor
     - Weapons: Simple Weapons, Blowguns, Short Swords, Whips
     - Tools: Alchemist's Supplies, Herbalist Kit, Poisoner's Kit, Weaver's Tools
-
-## Armor Class: 
-- Studded Leather: 17
-- No Armor: 15
-
-## Speed 30
-
-## Hit Points
-- Total Hit Points:
-- Hit Dice: 10d8
 
 ## Feats:
 ??? "Cartomancer"
