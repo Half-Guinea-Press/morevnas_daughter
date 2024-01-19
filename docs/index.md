@@ -1,21 +1,33 @@
 # Ansa Needle Breaker
-??? inline end "Character Information"
-    Character Name: Ansa Khenbish Morevna
-    Class: Witch (White Magic) 5 / Savant (Physician) 5
+
+| Character Name: | Class                  | Background  | 
+| :-------------- | :--------------------- | :---------- |
+| Ansa Khenbish   | Witch (White Magic) 10 | Rune Carver |
+
+
     Race: Custom Lineage (Half Human)
-    Background: Rune Carver
     Alignment: Lawful Neutral
     Player Name: Maddie
     Experience Points:
 
-| Ability | Score   | Save   |                 |                           |
-| :-----: | :-----: | :----: | :-------------: | :-----------------------: |
-| 'Str'   | +2(14)  | +2     | Prof. Bonus: +4 | Passive Perception:    17 |
-| 'Dex'   | +2(15)  | +2     | Speed: 30       | Passive Investigation: 15 |
-| 'Con'   | +3(16)  | +3     | Initiative: +7  | Passive Insight:       17 |
-| 'Int'   | +5(20)  | +5     | Armor Class: 17 |                           |
-| 'Wis'   | +3(16)  | +7(P)  | HP Max: 103     |                           |
-| 'Chr'   | +5(20)  | +9(P)  | Hit Dice: 10d8  |                           |
+=== inline "Ability Scores"
+    | Ability | Score   | Save   |
+    | :------ | :-----: | :----: |
+    | Str     | +2(14)  | +2     |
+    | Dex     | +2(15)  | +2     |
+    | Con     | +3(16)  | +3     |
+    | Int     | +5(20)  | +5     |
+    | Wis     | +3(16)  | +7(P)  |
+    | Chr     | +5(20)  | +9(P)  |
+    
+    |                 |                           |
+    | :-------------: | :-----------------------: |
+    | Prof. Bonus: +4 | Passive Perception:    17 |
+    | Speed: 30       | Passive Investigation: 15 |
+    | Initiative: +7  | Passive Insight:       17 |
+    | Armor Class: 17 |                           |
+    | HP Max: 103     |                           |
+    | Hit Dice: 10d8  |                           |
 
 <div class="grid cards" markdown>
 
