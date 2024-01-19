@@ -8,15 +8,6 @@ hide:
 
 !!! inline note ""
 
-    - Character Information
-        - Character Name: Ansa Khenbish Morevna
-        - Class: Witch
-        - Level: 10
-        - Subclass: White Magic
-        - Race: Custom Lineage (Half Human)
-        - Background: Rune Carver
-        - Alignment: Lawfull Neutral
-
     - Ability Scores
         - Str +2(14)
         - Dex +2(15)
@@ -32,6 +23,14 @@ hide:
         - Int +5
         - Wis +7(P)
         - Chr +9(P)
+
+!!! inline end note ""
+
+    - Character Name: Ansa Khenbish Morevna
+    - Class: Witch (White Magic) 10
+    - Race: Custom Lineage (Half Human)
+    - Background: Rune Carver
+    - Alignment: Lawfull Neutral
 
 <div class="grid cards" markdown>
 
