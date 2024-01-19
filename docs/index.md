@@ -142,94 +142,85 @@
 
 ## Class Features:
 ### Witch:
-Spellcasting
-You have learned to mold and reshape the magic that curses you into spells.
-CANTRIPS
-You know four cantrips of your choice from the witch spell list. You learn additional witch cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Witch table
-SPELL SLOTS
-The Witch table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
-For example, if you know the 1st-level spell bane and have a 1st-level and a 2nd-level spell slot available, you can cast bane using either slot.
-SPELLS KNOWN OF 1ST LEVEL OR HIGHER
-You know two 1st-level spells of your choice from the witch spell list. The Spells Known column of the Witch table shows when you learn more witch spells of your choice.
-Each of these spells must be of a level for which you have spell slots, as shown on the table. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
-Additionally, when you gain a level in this class, you can choose one of the witch spells you know and replace it with another spell from the witch spell list, which also must be of a level for which you have spell slots.
-SPELLCASTING ABILITY
-Charisma is your spellcasting ability for your witch spells. Your magic originates deep within yourself, where your insidious curse stirs restlessly. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a witch spell you cast and when making an attack roll with one.
-Spell save DC = 8 + your proficiency bonus + your Charisma modifier
-Spell attack modifier = your proficiency bonus + your Charisma modifier
-RITUAL CASTING
-You can cast any witch spell you know as a ritual if that spell has the ritual tag.
-SPELLCASTING FOCUS
-You can use an arcane focus as a spellcasting focus for your witch spells
-Witch’s Curse
-Possessed. Your soul is occupied by a foreign spirit that sometimes tries to wrest away your consciousness. However, while you sleep, the spirit whispers magical secrets to you. You learn an additional witch spell at a level for which you have spell slots at 1st level, and again at 4th level, 8th level, and 12th level. These spells do not count against your total number of spells known
+??? "Spellcasting"
+    - You have learned to mold and reshape the magic that curses you into spells.
+    - CANTRIPS: You know four cantrips of your choice from the witch spell list. You learn additional witch cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Witch table
+    - SPELL SLOTS: The Witch table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell bane and have a 1st-level and a 2nd-level spell slot available, you can cast bane using either slot.
+    - SPELLS KNOWN OF 1ST LEVEL OR HIGHER: You know two 1st-level spells of your choice from the witch spell list. The Spells Known column of the Witch table shows when you learn more witch spells of your choice. Each of these spells must be of a level for which you have spell slots, as shown on the table. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level. Additionally, when you gain a level in this class, you can choose one of the witch spells you know and replace it with another spell from the witch spell list, which also must be of a level for which you have spell slots.
+    - SPELLCASTING ABILITY: Charisma is your spellcasting ability for your witch spells. Your magic originates deep within yourself, where your insidious curse stirs restlessly. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a witch spell you cast and when making an attack roll with one.
+    - Spell save DC = 8 + your proficiency bonus + your Charisma modifier
+    - Spell attack modifier = your proficiency bonus + your Charisma modifier
+    - RITUAL CASTING: You can cast any witch spell you know as a ritual if that spell has the ritual tag.
+    - SPELLCASTING FOCUS: You can use an arcane focus as a spellcasting focus for your witch spells
+??? "Witch’s Curse: Possessed"
+    Your soul is occupied by a foreign spirit that sometimes tries to wrest away your consciousness. However, while you sleep, the spirit whispers magical secrets to you. You learn an additional witch spell at a level for which you have spell slots at 1st level, and again at 4th level, 8th level, and 12th level. These spells do not count against your total number of spells known
 
-Hexes
-You can learn a number of powerful incantations, known as hexes, derived from the same insidious magic which cursed you.
-At 1st level, you gain two hexes of your choice. Your hex options are detailed at the end of the class description. When you gain certain witch levels, you gain additional hexes of your choice, as shown in the Hexes Known column of the Witch table. Additionally, when you gain a level in this class, you can choose one of the hexes you know and replace it with another hex.
-Unless otherwise stated, if a hex calls for an attack roll or saving throw, it uses your spell attack bonus or spell save DC. All hexes require verbal or somatic components (caster’s choice at the time of casting.)
-Unless otherwise noted, if a hex lasts for a duration, you concentrate on it as you would a spell. You can concentrate on a hex and a spell at the same time, and you make only one Constitution saving throw to maintain your concentration on both Cackle
-At 2nd level, you can use your bonus action to cackle. The duration of your hex extends by 1 round for each creature affected within 60 feet of you.
-Not all witches laugh maniacally when they cackle, but all cackles require a verbal component, as a spell. These range from mundane curses and insults, to the murmuring of dead languages and speaking backwards.
-Familiar
-At 2nd level, you learn the find familiar spell and can cast it as a ritual without material components. The spell doesn’t count against your number of spells known. The spell is improved in the following ways:
-• Your familiar takes its turn immediately before or after your turn each round (your choice).
-• Once per turn as an action or a bonus action, you can mentally command your familiar to use its reaction to make one attack.
-• When you cast a spell, you can deliver it through your familiar as if it had cast the spell, even if the spell doesn’t have a range of touch.
-• When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: death snail*, flying book*, homunculus, mock*, moon jelly*, pet rock*, pseudodragon, rag doll*, sprite, tin soldier*, winter wolf pup*, and yarn golem*. The statistics for creatures marked with an asterisk are in Appendix C.
-Witch’s Craft
-Your knowledge of magic has culminated in learning a Craft, an innate variety of magic which exists apart from the schools of magic. When you reach 3rd level, choose one Witch’s Craft. Your choice grants you features at 3rd level, and again at 6th, 10th, and 14th level.
-If your craft grants you a hex at any level, it doesn't count against your total number of hexes known.
-CRAFT SPELLS
-Each craft is associated with a branch of arcana, represented by a number of spells which you learn. The levels of these spells are noted in the craft description. These spells count as witch spells for you and don’t count against your total number of spells known.
-WITCH FAMILIAR
-As a witch, familiars you summon are imbued with your insidious magic, granting them the following benefits:
-• Your familiar can use your spell attack bonus for its attack rolls.
-• Your familiar adds your proficiency bonus to its Armor Class, saving throws, and damage rolls.
-• You add twice your witch level to your familiar’s maximum hit points.
-Insidious Spell
-Starting at 5th level, when you cast a witch spell that affects a creature that is under the effect of your hex, that creature has disadvantage on its first saving throw against the spell. This feature only applies to a hostile creature which is the sole target of your hex
-BECKON FAMILIAR
-You can cast the find familiar spell as an action without expending a spell slot or spell components. Once you cast this spell in this manner, you can’t do so again for 1 minute.
-You must have the Familiar feature to choose this hex
-GO UNSEEN
-As an action, you and your familiar become invisible. The effect ends at the end of your next turn, or if you or your familiar attack or cast a spell.
-Once you cast this hex, you can’t cast it again for 1 minute
-RUIN
-As an action, choose one creature you can see within 60 feet to make a Constitution saving throw. On a failed save, the creature’s Armor Class decreases by 3, to a minimum of 10, until the end of your next turn
-WARD
-As an action, choose 1 creature you can see other than yourself within 60 feet. Each time the creature takes damage before the end of your next turn, it reduces the damage it takes by 3
+??? "Hexes"
+    You can learn a number of powerful incantations, known as hexes, derived from the same insidious magic which cursed you.
+    At 1st level, you gain two hexes of your choice. Your hex options are detailed at the end of the class description. When you gain certain witch levels, you gain additional hexes of your choice, as shown in the Hexes Known column of the Witch table. Additionally, when you gain a level in this class, you can choose one of the hexes you know and replace it with another hex.
+    Unless otherwise stated, if a hex calls for an attack roll or saving throw, it uses your spell attack bonus or spell save DC. All hexes require verbal or somatic components (caster’s choice at the time of casting.)
+    Unless otherwise noted, if a hex lasts for a duration, you concentrate on it as you would a spell. You can concentrate on a hex and a spell at the same time, and you make only one Constitution saving throw to maintain your concentration on both Cackle
+    At 2nd level, you can use your bonus action to cackle. The duration of your hex extends by 1 round for each creature affected within 60 feet of you.
+    Not all witches laugh maniacally when they cackle, but all cackles require a verbal component, as a spell. These range from mundane curses and insults, to the murmuring of dead languages and speaking backwards.
+??? "Familiar"
+    At 2nd level, you learn the find familiar spell and can cast it as a ritual without material components. The spell doesn’t count against your number of spells known. The spell is improved in the following ways:
+    • Your familiar takes its turn immediately before or after your turn each round (your choice).
+    • Once per turn as an action or a bonus action, you can mentally command your familiar to use its reaction to make one attack.
+    • When you cast a spell, you can deliver it through your familiar as if it had cast the spell, even if the spell doesn’t have a range of touch.
+    • When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: death snail*, flying book*, homunculus, mock*, moon jelly*, pet rock*, pseudodragon, rag doll*, sprite, tin soldier*, winter wolf pup*, and yarn golem*. The statistics for creatures marked with an asterisk are in Appendix C.
+??? "Witch’s Craft"
+    Your knowledge of magic has culminated in learning a Craft, an innate variety of magic which exists apart from the schools of magic. When you reach 3rd level, choose one Witch’s Craft. Your choice grants you features at 3rd level, and again at 6th, 10th, and 14th level.
+    If your craft grants you a hex at any level, it doesn't count against your total number of hexes known.
+??? "CRAFT SPELLS"
+    Each craft is associated with a branch of arcana, represented by a number of spells which you learn. The levels of these spells are noted in the craft description. These spells count as witch spells for you and don’t count against your total number of spells known.
+??? "WITCH FAMILIAR"
+    As a witch, familiars you summon are imbued with your insidious magic, granting them the following benefits:
+    • Your familiar can use your spell attack bonus for its attack rolls.
+    • Your familiar adds your proficiency bonus to its Armor Class, saving throws, and damage rolls.
+    • You add twice your witch level to your familiar’s maximum hit points.
+??? "Insidious Spell"
+    Starting at 5th level, when you cast a witch spell that affects a creature that is under the effect of your hex, that creature has disadvantage on its first saving throw against the spell. This feature only applies to a hostile creature which is the sole target of your hex
+??? "BECKON FAMILIAR"
+    You can cast the find familiar spell as an action without expending a spell slot or spell components. Once you cast this spell in this manner, you can’t do so again for 1 minute.
+    You must have the Familiar feature to choose this hex
+??? "GO UNSEEN"
+    As an action, you and your familiar become invisible. The effect ends at the end of your next turn, or if you or your familiar attack or cast a spell.
+    Once you cast this hex, you can’t cast it again for 1 minute
+??? "RUIN"
+    As an action, choose one creature you can see within 60 feet to make a Constitution saving throw. On a failed save, the creature’s Armor Class decreases by 3, to a minimum of 10, until the end of your next turn
+??? "WARD"
+    As an action, choose 1 creature you can see other than yourself within 60 feet. Each time the creature takes damage before the end of your next turn, it reduces the damage it takes by 3
 
-White Magic
-White magic is fundamentally good and benevolent for all living things. Witches that adopt this craft, in spite of the hateful curse that infects them, often dedicate themselves to healing and caretaking, with the intent of bettering the world.
-White Magic Bonus Spells
-Spell Level Spells
-1st bless, cure wounds
-2nd lesser restoration, prayer of healing
-3rd beacon of hope, revivify
-4th death ward, guardian of faith
-5th mass cure wounds, raise dead
-HEX: REMEDY
-At 3rd level, you learn a hex which closes wounds and eases pain. As an action, choose one creature you can see within 60 feet. This creature regains a number of hit points equal to 1d10 + your witch level. A creature which regains hit points from this hex can’t be affected by it again until it finishes a short or long rest.
+??? "White Magic"
+     White magic is fundamentally good and benevolent for all living things. Witches that adopt this craft, in spite of the hateful curse that infects them, often dedicate themselves to healing and caretaking, with the intent of bettering the world.
+    White Magic Bonus Spells
+    Spell Level Spells
+    - 1st bless, cure wounds
+    - 2nd lesser restoration, prayer of healing
+    - 3rd beacon of hope, revivify
+    - 4th death ward, guardian of faith
+    - 5th mass cure wounds, raise dead
+??? "HEX: REMEDY"
+    At 3rd level, you learn a hex which closes wounds and eases pain. As an action, choose one creature you can see within 60 feet. This creature regains a number of hit points equal to 1d10 + your witch level. A creature which regains hit points from this hex can’t be affected by it again until it finishes a short or long rest.
 
 ### Savant:
-Adroit Analysis
-You can focus your mind to analyze your foe. Beginning at 1st level, you can use a bonus action to analyze one creature you can see within 60 feet, designating it as your Focus. While it is your Focus, you gain the following benefits against it: When you hit it with an attack, or if you observe it for 1 minute, you learn one of the following characteristics of your choice: its highest ability score, lowest ability score, Armor Class, speed, creature type, or one special sense. You can use your Intelligence, instead of your Strength or Dexterity, for weapon attack and damage rolls against it. Once per turn when you hit it with an attack, you deal 1d6 bonus damage. The bonus increases as you gain levels, to match the Intellect Die column of the Savant table above. Any attacks it makes against you have disadvantage. The creature remains your Focus indefinitely. Though, this effect ends if your Focus is hidden from you, if you designate another creature as your Focus, or if you are incapacitated. While you have a Focus, you cannot concentrate on spells or other features that would require your concentration.
-Predictive Defense
-Your analytical style of fighting allows you to better anticipate and dodge hostile attacks. Beginning at 1st level, you can use your Intelligence modifier, in place of Dexterity, whenever you calculate your Armor Class in light or medium armor.
-Scholarly Pursuits
-Never satisfied with your current state you are always looking to expand your educational horizons. At 1st level, you master one Scholarly Pursuit from the list at the end of this class. You master one additional Scholarly Pursuit of your choice when you reach 4th, 7th, 13th, and 18th level in this class.
-Genius Intellect
-Your mind is capable of wondrous bursts of insight, fortitude, and inspiration. At 2nd level, you gain the following benefits:
-Intellect Die
-These increased analytical abilities are represented by your Intellect Die, which begins as a d6. You start knowing three such features that make use of this Intellect Die: Calculated Flourish, Potent Observation, and Wondrous Insight.
-At certain levels, your Intellect Die increases in size, as shown in the Intellect Die column on the Savant table. 
-If one of your Intellect Die features requires a creature to make a saving throw, the save DC is calculated as follows:
-Intellect save DC = 8 + your proficiency bonus + your Intelligence modifier
-Calculated Flourish
-When a creature you can see targets you with a melee attack, you can use a reaction to add one roll of your Intellect Die to your Armor Class against that attack. If the attacker was your Focus and its attack misses, you can make one melee weapon attack against your Focus as part of the same reaction
-Potent Observation
-When another creature that can hear you hits your Focus with an attack, you can use your reaction to grant it a bonus to its damage roll equal to one roll of your Intellect Die.
+??? "Adroit Analysis"
+    You can focus your mind to analyze your foe. Beginning at 1st level, you can use a bonus action to analyze one creature you can see within 60 feet, designating it as your Focus. While it is your Focus, you gain the following benefits against it: When you hit it with an attack, or if you observe it for 1 minute, you learn one of the following characteristics of your choice: its highest ability score, lowest ability score, Armor Class, speed, creature type, or one special sense. You can use your Intelligence, instead of your Strength or Dexterity, for weapon attack and damage rolls against it. Once per turn when you hit it with an attack, you deal 1d6 bonus damage. The bonus increases as you gain levels, to match the Intellect Die column of the Savant table above. Any attacks it makes against you have disadvantage. The creature remains your Focus indefinitely. Though, this effect ends if your Focus is hidden from you, if you designate another creature as your Focus, or if you are incapacitated. While you have a Focus, you cannot concentrate on spells or other features that would require your concentration.
+??? "Predictive Defense"
+    Your analytical style of fighting allows you to better anticipate and dodge hostile attacks. Beginning at 1st level, you can use your Intelligence modifier, in place of Dexterity, whenever you calculate your Armor Class in light or medium armor.
+??? "Scholarly Pursuits"
+    Never satisfied with your current state you are always looking to expand your educational horizons. At 1st level, you master one Scholarly Pursuit from the list at the end of this class. You master one additional Scholarly Pursuit of your choice when you reach 4th, 7th, 13th, and 18th level in this class.
+??? "Genius Intellect"
+    Your mind is capable of wondrous bursts of insight, fortitude, and inspiration. At 2nd level, you gain the following benefits:
+    Intellect Die
+    These increased analytical abilities are represented by your Intellect Die, which begins as a d6. You start knowing three such features that make use of this Intellect Die: Calculated Flourish, Potent Observation, and Wondrous Insight.
+    At certain levels, your Intellect Die increases in size, as shown in the Intellect Die column on the Savant table. 
+    If one of your Intellect Die features requires a creature to make a saving throw, the save DC is calculated as follows:
+    Intellect save DC = 8 + your proficiency bonus + your Intelligence modifier
+??? "Calculated Flourish"
+    When a creature you can see targets you with a melee attack, you can use a reaction to add one roll of your Intellect Die to your Armor Class against that attack. If the attacker was your Focus and its attack misses, you can make one melee weapon attack against your Focus as part of the same reaction
+??? "Potent Observation"
+    When another creature that can hear you hits your Focus with an attack, you can use your reaction to grant it a bonus to its damage roll equal to one roll of your Intellect Die.
 Wondrous Insight
 When another creature that can hear you makes an ability check using a skill or tool that you are proficient in, you can use your reaction to grant it a bonus to its roll equal to one roll of your Intellect Die. You can do so after it rolls the d20.
 Sharp Mind
