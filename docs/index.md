@@ -8,14 +8,15 @@
     - Player Name: Maddie
     - Experience Points:
 
-|       | Ability Score | Saving Throw |                       |                           |
-| :---: | :-----------: | :----------: | :-------------------: | :-----------------------: |
-| 'Str' | +2(14)        | +2           | Proficiency Bonus: +4 | Passive Perception:    17 |
-| 'Dex' | +2(15)        | +2           | Speed: 30             | Passive Investigation: 15 |
-| 'Con' | +3(16)        | +3           | Initiative: +7        | Passive Insight:       17 |
-| 'Int' | +5(20)        | +5           | Armor Class: 17       |                           |                 
-| 'Wis' | +3(16)        | +7(P)        | HP Max: 103           |                           |
-| 'Chr' | +5(20)        | +9(P)        | Hit Dice: 10d8        |                           |
+|       | Ability | Saving |                 |                           |
+|       | Score   | Throw  |                 |                           |
+| :---: | :-----: | :----: | :-------------: | :-----------------------: |
+| 'Str' | +2(14)  | +2     | Prof. Bonus: +4 | Passive Perception:    17 |
+| 'Dex' | +2(15)  | +2     | Speed: 30       | Passive Investigation: 15 |
+| 'Con' | +3(16)  | +3     | Initiative: +7  | Passive Insight:       17 |
+| 'Int' | +5(20)  | +5     | Armor Class: 17 |                           |
+| 'Wis' | +3(16)  | +7(P)  | HP Max: 103     |                           |
+| 'Chr' | +5(20)  | +9(P)  | Hit Dice: 10d8  |                           |
 
 === "Skills"
     - Acrobatics: +2
