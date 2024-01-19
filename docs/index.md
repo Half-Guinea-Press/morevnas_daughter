@@ -25,31 +25,66 @@
 
 <div class="grid cards" markdown>
 
--   Skills
+-   Proficiency Bonus
 
     ---
 
-    - S. of Hand  +6(P)
-    - Stealth     +6(P)
+    +4
+
+-   Speed
+
+    ---
+
+    30
+
+-   Iniative
+    ---
+
+    +7
+
+-   Armor Class
+
+    ---
+
+    Studded Leather: 17
+    No Armor:        15
+
+-   Hit Points
+
+    ---
+
+    Hit Point Max: 103
+	Hit Dice:     10d8
+
+-   Proficient Skills
+
+    ---
+
+    - Arcana      +9
+    - Deception   +9
+    - History     +9
+    - Insight     +7
+    - Medicine    +9
+    - Perception  +7
+    - Persuasion  +9
+    - S. of Hand  +6
+    - Stealth     +6
+
+
+-   Non-Proficient Skills
+
+    ---
+
     - Acrobatics     +2
     - A. Handling    +3
-    - Arcana      +9(P)
     - Athletics      +2
-    - Deception   +9(P)
-    - History     +9(P)
-    - Insight     +7(P)	
     - Intimidation   +5
     - Investigation  +5
-    - Medicine    +9(P)
     - Nature         +5
-    - Perception  +7(P)
     - Performance    +5
-    - Persuasion  +9(P)
-    - S. of Hand  +6(P)
-    - Stealth     +6(P)
     - Survival       +3
 
--   Proficiencies:
+-   Other Proficiencies:
 
     ---
 
