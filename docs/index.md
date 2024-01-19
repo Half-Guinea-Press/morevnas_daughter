@@ -6,11 +6,11 @@ hide:
 
 # Ansa Khenbish Morevna The Needlesnap
 
-!!! note ""
-    | Class       | Race           | Background | Alignment |
-	| :---------- | :------------- | :--------- | :-------- |
-	| Witch 10    | Half-Human     | Rune       | Lawfull   |
-	| White Magic | Custom Lineage | Carver     | Neutral   |
+10th Level Half Human White Magic Witch 
+
+!!! inline end note ""
+
+    Features:
 
 <div class="grid cards" markdown>
 
