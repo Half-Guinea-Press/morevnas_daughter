@@ -6,11 +6,8 @@ hide:
 
 # Ansa Needle Breaker
 
-| Character Name: | Class | Lvl | Subclass    | Race                        | Background  | Alignment      |
-| :-------------- | :---- | :-: | :---------- | :-------------------------- | :---------- | :------------- |
-| Ansa Khenbish   | Witch | 10  | White Magic | Custom Lineage (Half-Human) | Rune Carver | Lawful Neutral |
-
 !!! inline note ""
+
     - Character Information
         - Character Name: Ansa Khenbish Morevna
         - Class: Witch
@@ -19,7 +16,7 @@ hide:
         - Race: Custom Lineage (Half Human)
         - Background: Rune Carver
         - Alignment: Lawfull Neutral
-    
+
     - Ability Scores
         - Str +2(14)
         - Dex +2(15)
@@ -27,7 +24,7 @@ hide:
         - Int +5(20)
         - Wis +3(16)
         - Chr +5(20)
-    
+
     - Saving Throws
         - Str +2
         - Dex +2
