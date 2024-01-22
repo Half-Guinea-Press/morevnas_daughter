@@ -38,9 +38,22 @@ hide:
     4th Level: Death ward, Guardian of faith, Polymorph<br>
     5th Level: Flame Strike, Geas, Hold Monster, Mass cure wounds, Raise dead, Scrying
 
-    Companions:<br>
+    Familiars:<br>
     Dyen - Winter Wolf Pup<br>
     Noch - Owl<br>
     Tsmok - Brass Dragon Wyrmling(w/o breath weapon)<br>
     Margarita - Imp<br>
     Ivan Ivanovitch - Fright<br>
+
+=== "Spells"
+
+    <div class="grid cards" markdown>
+    - Eldritch Orb
+    ---
+
+    - Flesh Ripper
+    ---
+
+=== "Combat"
+
+    This is a test
