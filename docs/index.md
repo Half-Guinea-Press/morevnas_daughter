@@ -13,21 +13,17 @@ hide:
     Str 14(+2) Dex 15(+2) Con 16(+3)<br>
     Int 18(+4) Wis 16(+3) Chr 20(+5)
 
-    Saves: Wis +7 Chr +9
-
+    Saves: Wis +7 Chr +9<br>
     Prof:    +4 Init:    +7 Spd:     30<br>
     AC:      17 HP Max:  103 Hit Dice:10d8<br>
     Spell DC: 17 Spell Attack: +9
 
-    Skills: Arcana(E), Insight, Intimidation, Medicine, Persuation, Religion
+    Skills: Arcana(E) +13, Insight +7, Intimidation +9, Medicine +7, Persuation +9, Religion +9
 
     Tools: Alchemist's Supplies, Herbalism Kit, Poisoner's Kit
 
-    Senses: N/A
-
     Languages: Common, Northern Outlander, Draconic
 
-    Features:<br>
     Background: Hermit Discovery<br>
     Feats: Shadow Touched, Skill Expert, Spell Sniper<br>
     Class: Spell Casting, Witch's Curse(Possessed), Hexes, Cackle, Familiar, Witch's Craft(White Magic), Insidious Spell, Improved Familiar, Dying Curse<br>
