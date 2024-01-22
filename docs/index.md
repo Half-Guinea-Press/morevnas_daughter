@@ -49,10 +49,10 @@ hide:
 
     <div class="grid cards" markdown>
     -   Eldritch Orb
-    ---
+        ---
 
     -   Flesh Ripper
-    ---
+        ---
     </div>
 === "Combat"
 
