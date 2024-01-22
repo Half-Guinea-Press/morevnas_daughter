@@ -56,19 +56,126 @@ hide:
 
     This is a test
 
-=== "Features"
+=== "Mystic Boons and Curses"
 
     <div class="grid cards" markdown>
 
-    -   Hermit Discovery
+    -   Mystic Boon: Extra Spells
 
         ---
 
-    -   Shadow Touched
+    -   Mystic Curse: Scorpion Tail Finger
 
         ---
 
-    -   Skill Expert
+    </div>
+
+=== "Background Feature"
+
+    <div class="grid cards" markdown>
+
+    -   Background: Hermit Discovery
+
+        ---
+
+    </div>
+
+=== "Feats"
+
+    <div class="grid cards" markdown>
+
+    -   Feat: Shadow Touched
+
+        ---
+
+    -   Feat: Skill Expert
+
+        ---
+
+    -   Feat: Spell Sniper
+
+        ---
+
+    </div>
+
+=== "Class Features"
+
+    <div class="grid cards" markdown>
+
+    -   Class: Spell Casting
+
+        ---
+
+    -   Class: Witch's Curse(Possessed)
+
+        ---
+
+    -   Class: Hexes, Cackle, Familiar
+
+        ---
+
+    -   Class: Witch's Craft(White Magic)
+
+        ---
+
+    -   Class: Insidious Spell
+
+        ---
+
+    -   Class: Improved Familiar
+
+        ---
+
+    -   Class: Dying Curse
+
+        ---
+
+    </div>
+
+
+=== "Hexes"
+
+    <div class="grid cards" markdown>
+
+    -   Hex: Beckon Familiar
+
+        ---
+
+    -   Hex: Doomward
+
+        ---
+
+    -   Hex: Duplicity
+
+        ---
+
+    -   Hex: Obfuscate
+
+        ---
+
+    -   Hex: Ruin
+
+        ---
+
+    </div>
+
+=== "White Magic Features"
+
+    <div class="grid cards" markdown>
+
+    -   White Magic: Bonus Spells
+
+        ---
+
+    -   White Magic: Hex(Remedy)
+
+        ---
+
+    -   White Magic: Talisman of Protection
+
+        ---
+
+    -   White Magic: Benevolent Surge
 
         ---
 
