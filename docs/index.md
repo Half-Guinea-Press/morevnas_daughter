@@ -13,15 +13,15 @@ hide:
 
     Saves: Wis +7 Chr +9
 
-    Prof: +4<br>
-    Initiative<br>
-    Speed
+    Prof:    +4<br>
+    Init:    +7<br>
+    Spd:     30
 
-    AC<br>
-    HP Max<br>
-    Hit Dice
+    AC       17<br>
+    HP Max   103<br>
+    Hit Dice 10d8
 
-    Skills
+    Skills: 
 
     Senses
 
