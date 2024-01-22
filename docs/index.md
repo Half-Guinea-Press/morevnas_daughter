@@ -5,7 +5,6 @@ hide:
 ---
 
 # Ansa Khenbish Morevna The Needlesnap
-10th Level White Magic Half-Human Witch / Medium / Lawful Neutral
 
 !!! inline note ""
     10th Level White Magic Half-Human Witch<br>
@@ -13,17 +12,17 @@ hide:
     ---
     Str 14(+2) Dex 15(+2) Con 16(+3)<br>
     Int 18(+4) Wis 16(+3) Chr 20(+5)
-    ---
+
     Saves: Wis +7 Chr +9
-    ---
+
     Prof:    +4 Init:    +7 Spd:     30<br>
     AC:      17 HP Max:  103 Hit Dice:10d8<br>
     Spell DC: 17 Spell Attack: +9
-    ---
+
     Skills: Arcana(E), Insight, Intimidation, Medicine, Persuation, Religion
-    
+
     Tools: Alchemist's Supplies, Herbalism Kit, Poisoner's Kit
-    ---
+
     Senses: N/A
 
     Languages: Common, Northern Outlander, Draconic
