@@ -6,7 +6,7 @@ hide:
 
 # Ansa Khenbish Morevna The Needlesnap
 
-!!! inline note ""
+!!! inline end note ""
     10th Level White Magic Half-Human Witch<br>
     Medium / Lawful Neutral
     ---
@@ -42,4 +42,9 @@ hide:
     4th Level: Death ward, Guardian of faith, Polymorph<br>
     5th Level: Flame Strike, Geas, Hold Monster, Mass cure wounds, Raise dead, Scrying
 
-    Companions:
+    Companions:<br>
+    Dyen - Winter Wolf Pup<br>
+    Noch - Owl<br>
+    Tsmok - Brass Dragon Wyrmling(w/o breath weapon)<br>
+    Margarita - Imp<br>
+    Ivan Ivanovitch - Fright<br>
