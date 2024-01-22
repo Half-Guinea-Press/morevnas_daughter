@@ -5,10 +5,9 @@ hide:
 ---
 
 # Ansa Khenbish Morevna The Needlesnap
-10th Level White Magic Half-Human Witch, Lawful Neutral
+10th Level White Magic Half-Human Witch / Medium / Lawful Neutral
 
-|       | Str | Dex | Con | Int | Wis | Chr |
-| :---: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Score | 14  | 15  | 16  | 20  | 16  | 20  |
-| Bonus | +2  | +2  | +3  | +5  | +3  | +5  |
-| Save  | +2  | +2  | +3  | +5  | +7P | +9P |
+|       | Str 14(+2) | Dex 15(+2) | Con 16(+3) | Int 20(+5) | Wis 16(+3) | Chr 20(+5) |
+| :---: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| Save  | +2         | +2         | +3         | +5         | +7(P)      | +9(P)      |
+
