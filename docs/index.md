@@ -8,21 +8,18 @@ hide:
 10th Level White Magic Half-Human Witch / Medium / Lawful Neutral
 
 !!! inline note ""
-    Str 14(+2) Dex 15(+2) Con 16(+3) Int 20(+5) Wis 16(+3) Chr 20(+5) 
+    Str 14(+2) Dex 15(+2) Con 16(+3)<br>
+    Int 20(+5) Wis 16(+3) Chr 20(+5)
 
     Saves: Wis +7 Chr +9
 
-    Prof: +4
-
-    Initiative
-
-    Speed
+    Prof: +4<br>
+    Initiative<br>
+    Speed<br>
     
-    AC
-    
-    HP Max
-    
-    Hit Dice
+    AC<br>    
+    HP Max<br>    
+    Hit Dice<br>
     
     Skills
     
@@ -33,9 +30,9 @@ hide:
     Features
     
     Actions
-    
+
+    Spells
+
     Companions
-    
+
     Equipment
-    
-    
