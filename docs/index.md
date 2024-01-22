@@ -17,22 +17,24 @@ hide:
     Init:    +7<br>
     Spd:     30
 
-    AC       17<br>
-    HP Max   103<br>
-    Hit Dice 10d8
+    AC:      17<br>
+    HP Max:  103<br>
+    Hit Dice:10d8
 
-    Skills: 
+    Skills: Arcana(E), Insight, Intimidation, Medicine, Persuation, Religion
 
-    Senses
+    Tools: Alchemist's Supplies, Herbalism Kit, Poisoner's Kit
 
-    Languages
+    Senses: N/A
 
-    Features
+    Languages: Common, Northern Outlander, Draconic
 
-    Actions
+    Features: 
+    - Background: Hermit Discovery
+    - Feats: Shadow Touched, Skill Expert, Spell Sniper
+    - Class: Spell Casting, Witch's Curse(Possessed), Hexes, Cackle, Familiar, Witch's Craft(White Magic), Insidious Spell, Improved Familiar, Dying Curse
+    - Hexes: Beckon Familiar, Doomward, Duplicity, Obfuscate, Ruin
 
-    Spells
+    Spells:
 
-    Companions
-
-    Equipment
+    Companions:
