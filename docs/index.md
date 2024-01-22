@@ -13,7 +13,26 @@ hide:
     | :---: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
     | Save  | +2         | +2         | +3         | +5         | +7(P)      | +9(P)      |
     
-    
+    <div class="grid cards" markdown>
+	-   Proficiency Bonus:
+
+	    Initiative:
+
+		Speed:
+
+		Armor Class:
+
+		HP(MAX):
+
+		Hit Dice:
+
+	-   Skills:
+
+	    Senses:
+
+		Languages:
+
+	</div>
 
 === "Detailed"
 
