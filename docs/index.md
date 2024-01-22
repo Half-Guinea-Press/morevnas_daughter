@@ -48,10 +48,10 @@ hide:
 === "Spells"
 
     <div class="grid cards" markdown>
-    - Eldritch Orb
+    -   Eldritch Orb
     ---
 
-    - Flesh Ripper
+    -   Flesh Ripper
     ---
 
 === "Combat"
