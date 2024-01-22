@@ -18,7 +18,7 @@ hide:
 
     Speed:
 
-    Armor Class:
+-   Armor Class:
 
     HP(MAX):
 
@@ -29,5 +29,14 @@ hide:
     Senses:
 
     Languages:
+
+-   Features:
+
+-   Actions:
+
+-   Companions:
+
+-   Equipment:
+
 
 </div>
