@@ -6,7 +6,8 @@ hide:
 
 # Ansa Khenbish Morevna The Needlesnap
 
-!!! inline end note ""
+=== Stat Block
+
     10th Level White Magic Half-Human Witch<br>
     Medium / Lawful Neutral
     ---
@@ -45,6 +46,10 @@ hide:
     Margarita - Imp<br>
     Ivan Ivanovitch - Fright<br>
 
+=== "Combat"
+
+    This is a test
+
 === "Spells"
 
     <div class="grid cards" markdown>
@@ -57,7 +62,8 @@ hide:
 
         ---
 
-    </div>
-=== "Combat"
+    -   Mage Hand
 
-    This is a test
+        ---
+
+    </div>
