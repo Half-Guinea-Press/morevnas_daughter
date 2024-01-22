@@ -27,8 +27,8 @@ hide:
 
         Languages: Common, Northern Outlander, Draconic
 
-    -   Mystic Boon: Extra Spells
-        Mystic Curse: Scorpion Tail Finger
+    -   Mystic Boon: Extra Spells<br>
+        Mystic Curse: Scorpion Tail Finger<br>
         Background: Hermit Discovery<br>
         Feats: Shadow Touched, Skill Expert, Spell Sniper<br>
         Class: Spell Casting, Witch's Curse(Possessed), Hexes, Cackle, Familiar, Witch's Craft(White Magic), Insidious Spell, Improved Familiar, Dying Curse<br>
@@ -74,7 +74,7 @@ hide:
 
     <div class="grid cards" markdown>
 
-    -   Background: Hermit Discovery
+    -   Hermit Discovery
 
         ---
 
@@ -84,15 +84,15 @@ hide:
 
     <div class="grid cards" markdown>
 
-    -   Feat: Shadow Touched
+    -   Shadow Touched
 
         ---
 
-    -   Feat: Skill Expert
+    -   Skill Expert
 
         ---
 
-    -   Feat: Spell Sniper
+    -   Spell Sniper
 
         ---
 
@@ -102,31 +102,31 @@ hide:
 
     <div class="grid cards" markdown>
 
-    -   Class: Spell Casting
+    -   Spell Casting
 
         ---
 
-    -   Class: Witch's Curse(Possessed)
+    -   Witch's Curse(Possessed)
 
         ---
 
-    -   Class: Hexes, Cackle, Familiar
+    -   Hexes, Cackle, Familiar
 
         ---
 
-    -   Class: Witch's Craft(White Magic)
+    -   Witch's Craft(White Magic)
 
         ---
 
-    -   Class: Insidious Spell
+    -   Insidious Spell
 
         ---
 
-    -   Class: Improved Familiar
+    -   Improved Familiar
 
         ---
 
-    -   Class: Dying Curse
+    -   Dying Curse
 
         ---
 
@@ -137,23 +137,27 @@ hide:
 
     <div class="grid cards" markdown>
 
-    -   Hex: Beckon Familiar
+    -   Beckon Familiar
 
         ---
 
-    -   Hex: Doomward
+    -   Doomward
 
         ---
 
-    -   Hex: Duplicity
+    -   Duplicity
 
         ---
 
-    -   Hex: Obfuscate
+    -   Obfuscate
 
         ---
 
-    -   Hex: Ruin
+    -   Remedy
+
+        ---
+
+    -   Ruin
 
         ---
 
@@ -163,19 +167,19 @@ hide:
 
     <div class="grid cards" markdown>
 
-    -   White Magic: Bonus Spells
+    -   Bonus Spells
 
         ---
 
-    -   White Magic: Hex(Remedy)
+    -   Hex(Remedy)
 
         ---
 
-    -   White Magic: Talisman of Protection
+    -   Talisman of Protection
 
         ---
 
-    -   White Magic: Benevolent Surge
+    -   Benevolent Surge
 
         ---
 
