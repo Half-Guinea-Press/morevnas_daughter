@@ -53,7 +53,7 @@ hide:
 
     -   Flesh Ripper
     ---
-
+    </div>
 === "Combat"
 
     This is a test
