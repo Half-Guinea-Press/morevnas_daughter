@@ -36,6 +36,12 @@ hide:
     Hexes: Beckon Familiar, Doomward, Duplicity, Obfuscate, Ruin<br>
     White Magic: Bonus Spells, Hex(Remedy), Talisman of Protection, Benevolent Surge<br>
 
-    Spells:
+    Spells:<br>
+    Cantrips: Eldritch orb, Flesh ripper, Mage hand, Message, Minor life steal, Prestidigitation, Produce flame<br>
+    1st Level: Bless, Cure wounds, Curse of chains, Invisibility, Ray of sickness<br>
+    2nd Level: Blindness /deafness, Lesser restoration, Locate Object, Prayer of healing<br>
+    3rd Level: Beacon of hope, Counterspell, Curse of blades, Hypnotic pattern, Magic Circle, Remove Curse, Revivify, Rusting Grasp<br>
+    4th Level: Death ward, Guardian of faith, Polymorph<br>
+    5th Level: Flame Strike, Geas, Hold Monster, Mass cure wounds, Raise dead, Scrying
 
     Companions:
