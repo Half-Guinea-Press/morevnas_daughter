@@ -15,20 +15,20 @@ hide:
 
     Prof: +4<br>
     Initiative<br>
-    Speed<br>
-    
-    AC<br>    
-    HP Max<br>    
-    Hit Dice<br>
-    
+    Speed
+
+    AC<br>
+    HP Max<br>
+    Hit Dice
+
     Skills
-    
+
     Senses
-    
+
     Languages
-    
+
     Features
-    
+
     Actions
 
     Spells
