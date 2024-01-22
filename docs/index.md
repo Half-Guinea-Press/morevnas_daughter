@@ -6,7 +6,7 @@ hide:
 
 # Ansa Khenbish Morevna The Needlesnap
 
-=== Stat Block
+=== "Stat Block"
 
     10th Level White Magic Half-Human Witch<br>
     Medium / Lawful Neutral
@@ -49,6 +49,24 @@ hide:
 === "Combat"
 
     This is a test
+
+=== "Features"
+
+    <div class="grid cards" markdown>
+
+    -   Hermit Discovery
+
+        ---
+
+    -   Shadow Touched
+
+        ---
+
+    -   Skill Expert
+
+        ---
+
+    </div>
 
 === "Spells"
 
