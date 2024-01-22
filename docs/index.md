@@ -30,10 +30,11 @@ hide:
     Languages: Common, Northern Outlander, Draconic
 
     Features: 
-    - Background: Hermit Discovery
-    - Feats: Shadow Touched, Skill Expert, Spell Sniper
-    - Class: Spell Casting, Witch's Curse(Possessed), Hexes, Cackle, Familiar, Witch's Craft(White Magic), Insidious Spell, Improved Familiar, Dying Curse
-    - Hexes: Beckon Familiar, Doomward, Duplicity, Obfuscate, Ruin
+        - Background: Hermit Discovery
+        - Feats: Shadow Touched, Skill Expert, Spell Sniper
+        - Class: Spell Casting, Witch's Curse(Possessed), Hexes, Cackle, Familiar, Witch's Craft(White Magic), Insidious Spell, Improved Familiar, Dying Curse
+        - Hexes: Beckon Familiar, Doomward, Duplicity, Obfuscate, Ruin
+        - White Magic: Bonus Spells, Hex(Remedy), Talisman of Protection, Benevolent Surge
 
     Spells:
 
