@@ -8,43 +8,47 @@ hide:
 
 === "Stat Block"
 
-    10th Level White Magic Half-Human Witch<br>
-    Medium / Lawful Neutral
-    ---
-    Str 14(+2) Dex 15(+2) Con 16(+3)<br>
-    Int 18(+4) Wis 16(+3) Chr 20(+5)
+    <div class="grid cards" markdown>
 
-    Saves: Wis +7 Chr +9<br>
-    Prof:    +4 Init:    +7 Spd:     30<br>
-    AC:      17 HP Max:  103 Hit Dice:10d8<br>
-    Spell DC: 17 Spell Attack: +9
+    -   10th Level White Magic Half-Human Witch
+        Medium / Lawful Neutral
+        ---
+        Str 14(+2) Dex 15(+2) Con 16(+3)<br>
+        Int 18(+4) Wis 16(+3) Chr 20(+5)
 
-    Skills: Arcana(E) +13, Insight +7, Intimidation +9, Medicine +7, Persuation +9, Religion +9
+    -   Saves: Wis +7 Chr +9<br>
+        Prof:    +4 Init:    +7 Spd:     30<br>
+        AC:      17 HP Max:  103 Hit Dice:10d8<br>
+        Spell DC: 17 Spell Attack: +9
 
-    Tools: Alchemist's Supplies, Herbalism Kit, Poisoner's Kit
+    -   Skills: Arcana(E) +13, Insight +7, Intimidation +9, Medicine +7, Persuation +9, Religion +9
 
-    Languages: Common, Northern Outlander, Draconic
+        Tools: Alchemist's Supplies, Herbalism Kit, Poisoner's Kit
 
-    Background: Hermit Discovery<br>
-    Feats: Shadow Touched, Skill Expert, Spell Sniper<br>
-    Class: Spell Casting, Witch's Curse(Possessed), Hexes, Cackle, Familiar, Witch's Craft(White Magic), Insidious Spell, Improved Familiar, Dying Curse<br>
-    Hexes: Beckon Familiar, Doomward, Duplicity, Obfuscate, Ruin<br>
-    White Magic: Bonus Spells, Hex(Remedy), Talisman of Protection, Benevolent Surge<br>
+        Languages: Common, Northern Outlander, Draconic
 
-    Spells:<br>
-    Cantrips: Eldritch orb, Flesh ripper, Mage hand, Message, Minor life steal, Prestidigitation, Produce flame<br>
-    1st Level: Bless, Cure wounds, Curse of chains, Invisibility, Ray of sickness<br>
-    2nd Level: Blindness /deafness, Lesser restoration, Locate Object, Prayer of healing<br>
-    3rd Level: Beacon of hope, Counterspell, Curse of blades, Hypnotic pattern, Magic Circle, Remove Curse, Revivify, Rusting Grasp<br>
-    4th Level: Death ward, Guardian of faith, Polymorph<br>
-    5th Level: Flame Strike, Geas, Hold Monster, Mass cure wounds, Raise dead, Scrying
+    -   Background: Hermit Discovery<br>
+        Feats: Shadow Touched, Skill Expert, Spell Sniper<br>
+        Class: Spell Casting, Witch's Curse(Possessed), Hexes, Cackle, Familiar, Witch's Craft(White Magic), Insidious Spell, Improved Familiar, Dying Curse<br>
+        Hexes: Beckon Familiar, Doomward, Duplicity, Obfuscate, Ruin<br>
+        White Magic: Bonus Spells, Hex(Remedy), Talisman of Protection, Benevolent Surge<br>
 
-    Familiars:<br>
-    Dyen - Winter Wolf Pup<br>
-    Noch - Owl<br>
-    Tsmok - Brass Dragon Wyrmling(w/o breath weapon)<br>
-    Margarita - Imp<br>
-    Ivan Ivanovitch - Fright<br>
+    -   Spells:<br>
+        Cantrips: Eldritch orb, Flesh ripper, Mage hand, Message, Minor life steal, Prestidigitation, Produce flame<br>
+        1st Level: Bless, Cure wounds, Curse of chains, Invisibility, Ray of sickness<br>
+        2nd Level: Blindness /deafness, Lesser restoration, Locate Object, Prayer of healing<br>
+        3rd Level: Beacon of hope, Counterspell, Curse of blades, Hypnotic pattern, Magic Circle, Remove Curse, Revivify, Rusting Grasp<br>
+        4th Level: Death ward, Guardian of faith, Polymorph<br>
+        5th Level: Flame Strike, Geas, Hold Monster, Mass cure wounds, Raise dead, Scrying
+
+    -   Familiars:<br>
+        Dyen - Winter Wolf Pup<br>
+        Noch - Owl<br>
+        Tsmok - Brass Dragon Wyrmling(w/o breath weapon)<br>
+        Margarita - Imp<br>
+        Ivan Ivanovitch - Fright<br>
+
+    </div>
 
 === "Combat"
 
