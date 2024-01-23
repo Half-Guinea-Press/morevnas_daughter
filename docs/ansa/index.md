@@ -1,9 +1,3 @@
----
-hide:
-  - toc
-  - navigation
----
-
 # Ansa Khenbish Morevna The Needlesnap
 
 === "Stat Block"
