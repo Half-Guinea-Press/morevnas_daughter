@@ -39,6 +39,8 @@ nav:
     - index.md
   - Spells: 
     - spells.md
+  - Spell Details:
+    - spell_details.md
   - Ansa:
     - ansa/index.md 
     - Combat: ansa/ansa_combat.md
