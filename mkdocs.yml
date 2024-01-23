@@ -3,6 +3,7 @@ theme:
     features:
 #    - toc.integrate
     - navigation.instant
+    - navigation.expand
     - navigation.top
     - navigation.tabs
     - navigation.tabs.sticky
@@ -34,12 +35,14 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 nav:
+  - Home:
+    - index.md
   - Ansa:
     - ansa/index.md 
-    - Page 1: ansa/ansa_combat.md
-    - Page 2: ansa/ansa_features.md
-    - Page 3: ansa/ansa_hexes.md
-    - Page 4: ansa/ansa_spells.md
+    - Combat: ansa/ansa_combat.md
+    - Features: ansa/ansa_features.md
+    - Hexes: ansa/ansa_hexes.md
+    - Spells: ansa/ansa_spells.md
     - Familiars: ansa/ansa_familiars.md
     
 # Extensions
