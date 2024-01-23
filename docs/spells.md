@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Spells
 
 | Name | Level | School | R | Casting Time | C | Duration | Range | AOE | V | S | M |
