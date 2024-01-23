@@ -37,6 +37,7 @@ theme:
 nav:
   - Home:
     - index.md
+    - Spells: spells.md
   - Ansa:
     - ansa/index.md 
     - Combat: ansa/ansa_combat.md
