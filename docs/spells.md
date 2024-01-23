@@ -1,13 +1,7 @@
----
-hide:
-  - navigation
-  - toc
----
-
 # Spells
 
-| Name | Level | School | R   | Casting Time | C   | Duration | Range | AOE | V   | S   | M   |
-| :--- | :---: | :----: | :-: | :---------:  | :-: | :------: | :---: | :-: | :-: | :-: | :-: |
+| Name | Level | School | R | Casting Time | C | Duration | Range | AOE | V | S | M |
+| :--- | :--- | :---- | :- | :---------  | :- | :------ | :--- | :- | :- | :- | :- |
 | Abduct | 7th | Conjuration |  | 1 min |  | 1 hr | 1 mile |  | V | S | M |
 | Aberrate | 2nd | Transmutation |  | 1 action | C | up to 10 mins | Self |  | V | S |  |
 | Accelerate/Decelerate | 1st | Transmutation |  | 1 reaction |  | Instant | 60 feet |  | V | S | M |
