@@ -2,9 +2,11 @@ site_name: Morevnas Daughter
 theme:
     features:
 #    - toc.integrate
+    - navigation.instant
     - navigation.top
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.indexes
     font:
        text: Rufina
        code: Red Hat Mono
@@ -31,7 +33,13 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-
+nav:
+  - Ansa:
+    - ansa/index.md 
+#    - Page 1: section/page-1.md
+#    ...
+#    - Page n: section/page-n.md
+    
 # Extensions
 markdown_extensions:
 
