@@ -1,11 +1,11 @@
---- |
-hide: |
-- navigation |
-- toc |
---- |
- |
-# Spells |
- |
+---
+hide:
+- navigation
+- toc
+---
+ 
+# Spells
+
 | Name | Level | School | R | Casting Time | C | Range//AOE | V | S | M | Duration |
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
 | Abduct | 7th~level | Conjuration |  | 1 minute |  | 1 mile | V | S | M | 1 hour |
