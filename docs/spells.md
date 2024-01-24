@@ -14,7 +14,7 @@ hide:
 | Accursed Act | 1st | Enchantment |  | 1 act | C | 60 ft | V | S | M | up to 1 min |
 | Acid Arrow | 2nd | Evocation |  | 1 act |  | 90 ft | V | S | M | Instantaneous |
 | Acid Splash | 0 | Conjuration |  | 1 act |  | 60 ft | V | S |  | Instantaneous |
-| act | 1st | Transmutation |  | 1 act |  | 30 ft | V | S | M | 1 round |
+| Action | 1st | Transmutation |  | 1 act |  | 30 ft | V | S | M | 1 round |
 | Aerial Alacrity | 2nd | Transmutation |  | 1 act |  | 60 ft | V | S | M | 10 mins |
 | After Image | 3rd | Illusion |  |  1 act |  | Self | V | S | M* | 10 mins |
 | Aid | 2nd | Abjuration |  | 1 act |  | 30 ft | V | S | M | 8 hrs |
