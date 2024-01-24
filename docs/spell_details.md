@@ -32,7 +32,9 @@ V, S, M<br>
 a drop of oil or a drop of molasses
 
 Spell Description:<br>
-This spell speeds up or slows down an attack the instant before it strikes, lessening or multiplying its force.<br>Accelerate. Increase the damage the target takes by 1d6 + your spellcasting modifier. Decelerate. Reduce the damage the target takes by 1d6 + your spellcasting modifier (to a minimum of 0 damage). At Higher Levels:<br>
+This spell speeds up or slows down an attack the instant before it strikes, lessening or multiplying its force.<br>Accelerate. Increase the damage the target takes by 1d6 + your spellcasting modifier. Decelerate. Reduce the damage the target takes by 1d6 + your spellcasting modifier (to a minimum of 0 damage).
+
+At Higher Levels:<br>
 When you cast this spell using a spell slot of 2nd level or higher, the change in damage increases by 1d6 for each slot level above 1st.
 ---
 ## Accursed Act
@@ -45,7 +47,9 @@ V, S, M<br>
 incense or a black candle
 
 Spell Description:<br>
-Lighting a candle, you speak dark curses in a lost tongue, directed at one creature you can see within range. That creature must make a Wisdom saving throw or be cursed for the duration. While cursed, the creature takes psychic damage once per turn equal to 1d8 + your spellcasting modifier whenever it attacks or casts a spell. If the target doesn’t attack or cast a spell on its turn, it can repeat their saving throw at the end of their turn, ending the effect on a success.<br>A remove curse spell ends this curse early. At Higher Levels:<br>
+Lighting a candle, you speak dark curses in a lost tongue, directed at one creature you can see within range. That creature must make a Wisdom saving throw or be cursed for the duration. While cursed, the creature takes psychic damage once per turn equal to 1d8 + your spellcasting modifier whenever it attacks or casts a spell. If the target doesn’t attack or cast a spell on its turn, it can repeat their saving throw at the end of their turn, ending the effect on a success.<br>A remove curse spell ends this curse early.
+
+At Higher Levels:<br>
 When you cast this spell using a spell slot of 2nd-level or higher, you deal an additional 1d8 psychic damage for each slot level above 1st.
 ---
 ## Acid Arrow
@@ -1753,7 +1757,9 @@ Duration: InstantaneouS, M<br>
 a holy symbol
 
 Spell Description:<br>
-A beam of tenebrous moonlight streaks from your left eye toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 necrotic damage and can't take the Disengage action until the end of your next turn.<br>This spell creates an additional beam and deals more damage At Higher Levels:<br>
+A beam of tenebrous moonlight streaks from your left eye toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 necrotic damage and can't take the Disengage action until the end of your next turn.<br>This spell creates an additional beam and deals more damage
+
+At Higher Levels:<br>
 At 5th level, you fire a second beam originating from your right eye. Your first beam's damage increases by 1d8 (2d8) when you reach 11th level, and your second beam's damage increases by 1d8 (2d8) when you reach 17th level
 ---
 ## Eye Of Ra
@@ -1765,7 +1771,9 @@ Duration: InstantaneouS, M<br>
 a holy symbol
 
 Spell Description:<br>
-A beam of furious radiance erupts from your right eye, directed at a creature you can see within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 radiant damage and can't take the Hide action until the end of your next turn.<br>This spell creates an additional beam and deals more damage At Higher Levels:<br>
+A beam of furious radiance erupts from your right eye, directed at a creature you can see within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 radiant damage and can't take the Hide action until the end of your next turn.<br>This spell creates an additional beam and deals more damage
+
+At Higher Levels:<br>
 At 5th level, you fire a second beam originating from your left eye. Your first beam's damage increases by 1d8 (2d8) when you reach 11th level, and your second beam's damage increases by 1d8 (2d8) when you reach 17th level.
 ---
 ## Eyebite
@@ -2562,7 +2570,9 @@ Duration: Instantaneous<br>
 V, S
 
 Spell Description:<br>
-A ring of flame ignites above your head, and then springs outward, coming to rest in a burning circle. The circle is composed of a 5-foot wide line of flame, curving to form a 10-foot radius ring around you. Each creature you choose within the area must make a Dexterity saving throw. On a failed save, a creature takes 4d6 fire damage, or half as much on a successful save. At Higher Levels:<br>
+A ring of flame ignites above your head, and then springs outward, coming to rest in a burning circle. The circle is composed of a 5-foot wide line of flame, curving to form a 10-foot radius ring around you. Each creature you choose within the area must make a Dexterity saving throw. On a failed save, a creature takes 4d6 fire damage, or half as much on a successful save.
+
+At Higher Levels:<br>
 When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 ---
 ## Hangover
@@ -3055,7 +3065,9 @@ V, S, M<br>
 a pinch of wet gunpowder
 
 Spell Description:<br>
-The firearm you target jams upon firing. The attack fails, and the firearm is jammed. A jammed firearm can't be used to make an attack until a creature uses its action to clear the weapon malfunction. At Higher Levels:<br>
+The firearm you target jams upon firing. The attack fails, and the firearm is jammed. A jammed firearm can't be used to make an attack until a creature uses its action to clear the weapon malfunction.
+
+At Higher Levels:<br>
 When you cast this spell using a spell slot of 3rd level or higher, you can jam one additional firearm within range for each slot level above 2nd.
 ---
 ## Jethro's Instant Reload
@@ -3543,7 +3555,9 @@ V, S, M<br>
 a small, black strip of ribbon
 
 Spell Description:<br>
-You channel stygian power from an extraplanar source, enhancing three creatures other than yourself within range. Whenever a target makes a weapon attack, it adds 1d4 damage to their damage roll. If a target moves more than 15 feet away from you, it loses the effect until it is within range again. At Higher Levels:<br>
+You channel stygian power from an extraplanar source, enhancing three creatures other than yourself within range. Whenever a target makes a weapon attack, it adds 1d4 damage to their damage roll. If a target moves more than 15 feet away from you, it loses the effect until it is within range again.
+
+At Higher Levels:<br>
 When you cast this spell using a spell slot of 2nd level or higher, the range increases by 5 feet, and you can target one additional creature for each slot level above 1st.
 ---
 ## Mind Blank
@@ -3750,7 +3764,9 @@ V, S, M<br>
 a handful of flower petals
 
 Spell Description:<br>
-Choose an unoccupied 15-foot cube of air that you can see within range. An elemental force of swirling winds appears in the cube and lasts for the spell’s duration. The cloud heavily obscures its area. Any creature that enters the storm for the first time on a turn or starts its turn there must make a Strength saving throw. On a failed save, the creature takes 3d4 slashing damage. As a bonus action, you can move the storm up to 30 feet in any direction. If the storm’s area contains leaf litter, flowers, bushes, or trees, it sucks up extra material and the damage the spell deals increases by 2d4. At Higher Levels:<br>
+Choose an unoccupied 15-foot cube of air that you can see within range. An elemental force of swirling winds appears in the cube and lasts for the spell’s duration. The cloud heavily obscures its area. Any creature that enters the storm for the first time on a turn or starts its turn there must make a Strength saving throw. On a failed save, the creature takes 3d4 slashing damage. As a bonus action, you can move the storm up to 30 feet in any direction. If the storm’s area contains leaf litter, flowers, bushes, or trees, it sucks up extra material and the damage the spell deals increases by 2d4.
+
+At Higher Levels:<br>
 When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.
 ---
 ## Phantasmal Beauty
@@ -4317,7 +4333,9 @@ Duration: Instantaneous<br>
 V, S
 
 Spell Description:<br>
-You conjure a potent acid at your fingertips, which can corrode metal and burn flesh. Make a melee spell attack against a creature or object within your reach. On a hit, a creature takes 6d4 acid damage and, if it is wearing nonmagical metal armor or wielding a nonmagical metal shield, you can corrode either its armor or shield. Corroded armor takes a permanent and cumulative -3 penalty to the AC it offers. Armor reduced to an AC of 10 is destroyed. A corroded shield is destroyed.<br>If you target a nonmagical metal object with this spell that isn’t being worn or carried, you corrode and destroy parts of the object you choose that can fit within a 1-foot cube. At Higher Levels:<br>
+You conjure a potent acid at your fingertips, which can corrode metal and burn flesh. Make a melee spell attack against a creature or object within your reach. On a hit, a creature takes 6d4 acid damage and, if it is wearing nonmagical metal armor or wielding a nonmagical metal shield, you can corrode either its armor or shield. Corroded armor takes a permanent and cumulative -3 penalty to the AC it offers. Armor reduced to an AC of 10 is destroyed. A corroded shield is destroyed.<br>If you target a nonmagical metal object with this spell that isn’t being worn or carried, you corrode and destroy parts of the object you choose that can fit within a 1-foot cube.
+
+At Higher Levels:<br>
 When you cast this spell using a spell slot of 4th level or higher, the damage increases by 2d4 for each slot level above 3rd. Additionally, you can destroy one additional cubic foot of a nonmagical object for each slot level above 3rd.
 ---
 ## Sacred Flame
