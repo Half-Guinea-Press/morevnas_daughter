@@ -1,4 +1,8 @@
-# Spell Details
+---
+hide:
+  - navigation
+---
+# Spell Descriptions
 
 ## Abduct
 7th-level Conjuration<br>
