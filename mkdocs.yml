@@ -92,8 +92,7 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
-        - includes/footnotes.md
-
+ 
 
 plugins:
   - search
