@@ -21,7 +21,11 @@
 
 </div>
 
-Skills: Acrobatics +2, Animal Handling +3, Arcana(E) +12, Athletics +2, Deception +5, History +4, Insight(P) +7, Intimidation(P) +9, Investigation +4, Medicine(P) +7, Nature +4, Perception +3, Performance +5, Persuasion(P) +9, Religion (P) +9, Sleight of Hand +2, Stealth +2, Survival +3<br>
+Proficiencies
+
+---
+
+Skills: Acrobatics+2, Animal Handling+3, Arcana(E)+12, Athletics+2, Deception+5, History+4, Insight(P)+7, Intimidation(P)+9, Investigation+4, Medicine(P)+7, Nature+4, Perception+3, Performance+5, Persuasion(P)+9, Religion(P)+9, Sleight of Hand+2, Stealth+2, Survival+3<br>
 Tools: Alchemist's Supplies, Herbalism Kit, Poisoner's Kit<br>
 Languages: Common, Northern Outlander, Draconic<br>
 
