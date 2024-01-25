@@ -296,9 +296,9 @@
     You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.<br>
     Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways:
 
-    -   ## The creature can’t willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
-    -   ## The creature has disadvantage on attack rolls against targets within the cylinder.
-    -   ## Targets within the cylinder can’t be charmed, frightened, or possessed by the creature.
+    -   The creature can’t willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
+    -   The creature has disadvantage on attack rolls against targets within the cylinder.
+    -   Targets within the cylinder can’t be charmed, frightened, or possessed by the creature.
     When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
     ---
@@ -394,12 +394,12 @@
 
     This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
 
-    -   ## You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
-    -   ## You instantaneously light or snuff out a candle, a torch, or a small campfire.
-    -   ## You instantaneously clean or soil an object no larger than 1 cubic foot.
-    -   ## You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
-    -   ## You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
-    -   ## You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+    -   You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+    -   You instantaneously light or snuff out a candle, a torch, or a small campfire.
+    -   You instantaneously clean or soil an object no larger than 1 cubic foot.
+    -   You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+    -   You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+    -   You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
     If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.<br>
     
