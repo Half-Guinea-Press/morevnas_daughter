@@ -2,7 +2,7 @@
 
 <div class="grid cards" markdown>
 
--   Beacon of hope
+-   ## Beacon of hope
 
     ---
 
@@ -13,7 +13,7 @@
     This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.
 
 
--   Bless
+-   ## Bless
 
     ---
 
@@ -29,7 +29,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
--   Blindness/deafness
+-   ## Blindness/deafness
 
     ---
 
@@ -45,7 +45,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
--   Counterspell
+-   ## Counterspell
 
     ---
 
@@ -61,7 +61,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
 
--   Cure wounds
+-   ## Cure wounds
 
     ---
 
@@ -77,7 +77,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
--   CURSE OF BLADES
+-   ## CURSE OF BLADES
 
     ---
 
@@ -89,7 +89,7 @@
 
     Unholy bands of black energy tie a creature to its weapon. Choose a creature you can see that is holding a weapon within range to make a Wisdom saving throw. On a failed save, the creature is cursed for the duration. A cursed target can’t willingly drop or stow its weapon. Additionally, whenever it takes the Attack action on its turn, it makes one additional attack using its weapon targeting itself, against its own AC, dealing damage as normal on a hit. A remove curse spell ends this curse early
 
--   CURSE OF CHAINS
+-   ## CURSE OF CHAINS
 
     ---
 
@@ -101,7 +101,7 @@
 
     A black brand resembling iron shackles darkens the ankles of two creatures you can see. Choose two creatures you can see within range of the spell and within 30 feet of each other to make a Constitution saving throw. A willing creature can choose to fail this saving throw. On a failed save, a target is cursed for the duration. If only one target is cursed by this spell, you can use your action or bonus action on a subsequent turn to choose another target within 30 feet of the cursed creature to make a saving throw. While two creatures are cursed by this spell, they are unable to willingly move further away from each other. A remove curse spell ends this curse early.
 
--   Death ward
+-   ## Death ward
 
     ---
 
@@ -115,7 +115,7 @@
     The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends.<br>
     If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
 
--   ELDRITCH ORB
+-   ## ELDRITCH ORB
 
     ---
 
@@ -131,7 +131,7 @@
 
     At Higher Levels. This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
--   Flame Strike
+-   ## Flame Strike
 
     ---
 
@@ -147,7 +147,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
 
--   FLESH RIPPER
+-   ## FLESH RIPPER
 
     ---
 
@@ -162,7 +162,7 @@
 
     At Higher Levels. This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)
 
--   Geas
+-   ## Geas
 
     ---
 
@@ -180,7 +180,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
 
--   Guardian of faith
+-   ## Guardian of faith
 
     ---
 
@@ -198,7 +198,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
 
--   Hold Monster
+-   ## Hold Monster
 
     ---
 
@@ -214,7 +214,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
 
--   Hypnotic pattern
+-   ## Hypnotic pattern
 
     ---
 
@@ -227,7 +227,7 @@
     You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom saving throw. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0.<br>
     The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
--   Invisibility
+-   ## Invisibility
 
     ---
 
@@ -243,7 +243,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
--   Lesser restoration
+-   ## Lesser restoration
 
     ---
 
@@ -255,7 +255,7 @@
 
     You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
--   Locate Object
+-   ## Locate Object
 
     ---
 
@@ -269,7 +269,7 @@
     The spell can locate a specific object known to you, as long as you have seen it up close—within 30 feet—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.<br>
     This spell can’t locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
 
--   Mage hand
+-   ## Mage hand
 
     ---
 
@@ -283,7 +283,7 @@
     You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.<br>
     The hand can’t attack, activate magic items, or carry more than 10 pounds.
 
--   Magic Circle
+-   ## Magic Circle
 
     ---
 
@@ -296,16 +296,16 @@
     You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.<br>
     Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways:
 
-    -   The creature can’t willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
-    -   The creature has disadvantage on attack rolls against targets within the cylinder.
-    -   Targets within the cylinder can’t be charmed, frightened, or possessed by the creature.
+    -   ## The creature can’t willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
+    -   ## The creature has disadvantage on attack rolls against targets within the cylinder.
+    -   ## Targets within the cylinder can’t be charmed, frightened, or possessed by the creature.
     When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
 ---
 
     At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
--   Mass cure wounds
+-   ## Mass cure wounds
 
     ---
 
@@ -321,7 +321,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
 
--   Message
+-   ## Message
 
     ---
 
@@ -334,7 +334,7 @@
     You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.<br>
     You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
 
--   MINOR LIFESTEAL
+-   ## MINOR LIFESTEAL
 
     ---
 
@@ -350,7 +350,7 @@
 
     At Higher Levels. This spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4)
 
--   Polymorph
+-   ## Polymorph
 
     ---
 
@@ -366,7 +366,7 @@
     The creature is limited in the actions it can perform by the nature of its new form, and it can’t speak, cast spells, or take any other action that requires hands or speech.<br>
     The target’s gear melds into the new form. The creature can’t activate, use, wield, or otherwise benefit from any of its equipment.
 
--   Prayer of healing
+-   ## Prayer of healing
 
     ---
 
@@ -382,7 +382,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.
 
--   Prestidigitation
+-   ## Prestidigitation
 
     ---
 
@@ -394,16 +394,16 @@
 
     This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
 
-    -   You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
-    -   You instantaneously light or snuff out a candle, a torch, or a small campfire.
-    -   You instantaneously clean or soil an object no larger than 1 cubic foot.
-    -   You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
-    -   You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
-    -   You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+    -   ## You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+    -   ## You instantaneously light or snuff out a candle, a torch, or a small campfire.
+    -   ## You instantaneously clean or soil an object no larger than 1 cubic foot.
+    -   ## You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+    -   ## You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+    -   ## You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
     If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.<br>
     
--   Produce flame
+-   ## Produce flame
 
     ---
 
@@ -420,7 +420,7 @@
 
     At Higher Levels. This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
--   Raise dead
+-   ## Raise dead
 
     ---
 
@@ -435,7 +435,7 @@
     This spell closes all mortal wounds, but it doesn’t restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.<br>
     Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
--   Ray of sickness
+-   ## Ray of sickness
 
     ---
 
@@ -451,7 +451,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
--   Remove Curse
+-   ## Remove Curse
 
     ---
 
@@ -463,7 +463,7 @@
 
     At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner’s attunement to the object so it can be removed or discarded.
 
--   Revivify
+-   ## Revivify
 
     ---
 
@@ -475,7 +475,7 @@
 
     You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts.
 
--   RUSTING GRASP
+-   ## RUSTING GRASP
 
     ---
 
@@ -491,7 +491,7 @@
 
     At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 2d4 for each slot level above 3rd. Additionally, you can destroy one additional cubic foot of a nonmagical object for each slot level above 3rd.
 
--   Scrying
+-   ## Scrying
 
     ---
 
