@@ -23,26 +23,26 @@
     ---
 
     Your exposure to the Shadowfell's magic has changed you, granting you the following benefits:
-    - Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
-    - You learn the invisibility spell and one 1st-level spell of your choice. The 1st-level spell must be from the illusion or necromancy school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+    -   Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+    -   You learn the invisibility spell and one 1st-level spell of your choice. The 1st-level spell must be from the illusion or necromancy school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 -   Skill Expert
 
     ---
 
     You have honed your proficiency with particular skills, granting you the following benefits:
-    - Increase one ability score of your choice by 1, to a maximum of 20.
-    - You gain proficiency in one skill of your choice.
-    - Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your proficiency bonus..
+    -   Increase one ability score of your choice by 1, to a maximum of 20.
+    -   You gain proficiency in one skill of your choice.
+    -   Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your proficiency bonus..
 
 -   Spell Sniper
 
     ---
 
     You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
-    - When you cast a spell that requires you to make an attack roll, the spell's range is doubled.
-    - Your ranged spell attacks ignore half cover and three-quarters cover.
-    - You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+    -   When you cast a spell that requires you to make an attack roll, the spell's range is doubled.
+    -   Your ranged spell attacks ignore half cover and three-quarters cover.
+    -   You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
 -   Spell Casting
 
@@ -79,17 +79,15 @@
     ---
 
     At 2nd level, you learn the find familiar spell and can cast it as a ritual without material components. The spell doesn’t count against your number of spells known. The spell is improved in the following ways:
-    • Your familiar takes its turn immediately before or after your turn each round (your choice).
-    • Once per turn as an action or a bonus action, you 
-    can mentally command your familiar to use its 
-    reaction to make one attack.
-    • When you cast a spell, you can deliver it through your familiar as if it had cast the spell, even if the spell doesn’t have a range of touch.
-    • When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: death snail*, flying book*, homunculus, mock*, moon jelly*, pet rock*, pseudodragon, rag doll*, sprite, tin soldier*, winter wolf pup*, and yarn golem*. The statistics for creatures marked with an asterisk are in Appendix C.
+    •   Your familiar takes its turn immediately before or after your turn each round (your choice).
+    •   Once per turn as an action or a bonus action, you can mentally command your familiar to use its reaction to make one attack.
+    •   When you cast a spell, you can deliver it through your familiar as if it had cast the spell, even if the spell doesn’t have a range of touch.
+    •   When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: death snail*, flying book*, homunculus, mock*, moon jelly*, pet rock*, pseudodragon, rag doll*, sprite, tin soldier*, winter wolf pup*, and yarn golem*. The statistics for creatures marked with an asterisk are in Appendix C.
 
     As a witch, familiars you summon are imbued with your insidious magic, granting them the following benefits:
-    • Your familiar can use your spell attack bonus for its attack rolls.
-    • Your familiar adds your proficiency bonus to its Armor Class, saving throws, and damage rolls.
-    • You add twice your witch level to your familiar’s maximum hit points.
+    •   Your familiar can use your spell attack bonus for its attack rolls.
+    •   Your familiar adds your proficiency bonus to its Armor Class, saving throws, and damage rolls.
+    •   You add twice your witch level to your familiar’s maximum hit points.
 
 -   Witch's Craft(White Magic)
 
@@ -104,11 +102,11 @@
     ---
 
     Spell Level Spells
-    - 1st bless, cure wounds
-    - 2nd lesser restoration, prayer of healing
-    - 3rd beacon of hope, revivify
-    - 4th death ward, guardian of faith
-    - 5th mass cure wounds, raise dead
+    -   1st bless, cure wounds
+    -   2nd lesser restoration, prayer of healing
+    -   3rd beacon of hope, revivify
+    -   4th death ward, guardian of faith
+    -    5th mass cure wounds, raise dead
 
 -   Hex(Remedy)
 
