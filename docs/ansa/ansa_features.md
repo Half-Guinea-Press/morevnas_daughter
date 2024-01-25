@@ -6,9 +6,13 @@
 
     ---
 
+    Learn an extra spell from the Druid or Cleric spell list of a level that you can cast.
+
 -   ## Mystic Curse: Scorpion Tail Finger
 
     ---
+
+    The little finger on your left hand is shaped like a scorpion's tail, complete with stinger. The stinger can poison with a DC 17 and causes incapacitation for 1 rnd.
 
 -   ## Hermit Discovery
 
