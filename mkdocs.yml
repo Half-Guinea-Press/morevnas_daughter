@@ -42,7 +42,7 @@ nav:
   - Spell Details:
     - spell_details.md
   - Ansa:
-    - ansa/index.md 
+    - ansa/Ansa.md 
     - Combat: ansa/ansa_combat.md
     - Features: ansa/ansa_features.md
     - Hexes: ansa/ansa_hexes.md
