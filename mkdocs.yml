@@ -38,7 +38,7 @@ nav:
   - Home:
     - index.md
   - Spells: 
-    - spells/spells_list.md
+    - spells/spell_list.md
     - Spell Descriptions: spells/spell_details.md
   - Ansa:
     - ansa/Ansa.md 
