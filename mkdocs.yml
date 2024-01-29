@@ -47,7 +47,7 @@ nav:
     - Hexes: ansa/ansa_hexes.md
     - Spells: ansa/ansa_spells.md
     - Familiars: ansa/ansa_familiars.md
-    - Equipment: ansa/equipment/equipment list.md
+    - Equipment: ansa/equipment list.md
     
 # Extensions
 markdown_extensions:
