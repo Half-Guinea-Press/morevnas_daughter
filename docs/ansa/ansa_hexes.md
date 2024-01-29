@@ -8,18 +8,18 @@
 
     You can cast the find familiar spell as an action without expending a spell slot or spell components. Once you cast this spell in this manner, you can’t do so again for 1 minute.You must have the Familiar feature to choose this hex.
 
--   ## Doomward
-
-    ---
-
-    As an action, choose one friendly creature other than yourself you can see within 60 feet. If this creature drops to 0 hit points before the end of your next turn and doesn’t die outright, it drops to 1 hit point instead. This hex then ends and can’t be used to target the same creature until you finish a short or long rest.
-
 -   ## Duplicity
 
     ---
 
     As an action, you can create an illusory duplicate self, composed of shadowstuff, to confuse your enemies. When a creature attacks you, roll any die. On an odd number, the attack strikes the duplicate and misses, regardless of its roll, and the hex ends. On an even roll, the attack targets you as normal. This effect lasts until the end of your next turn.
 
+-   ## Evil Eye
+
+    ---
+
+    As an action, choose one creature you can see that can see you within 60 feet to make a Wisdom saving throw. On a failed save, the creature is frightened of you until the end of your next turn
+    
 -   ## Obfuscate
 
     ---
