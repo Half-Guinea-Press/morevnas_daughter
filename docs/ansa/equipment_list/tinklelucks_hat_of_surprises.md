@@ -1,5 +1,7 @@
 # Twinkleluck's Hat of Surprises
+
 Wonderous Item, rare
+
 Once per day, you can plunge your hand into this hat as an action. Roll a d8. You get out of the bag the corresponding object on table. If the object needs an action to be used, you can use during same action you took to pull it out. Each object is summoned for a max of 1 hr. wether it has been used or not, and you cannot pull another object from the hat until next dawn.
 
 | 1d8 | Object          | Description                                                                                                                                                                                                                                                                                                 |
