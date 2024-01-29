@@ -36,7 +36,7 @@
     Background: Hermit Discovery<br>
     Feats: Shadow Touched, Skill Expert, Spell Sniper<br>
     Class: Witch's Curse(Possessed), Hexes, Cackle, Familiar, Insidious Spell, Improved Familiar, Dying Curse<br>
-    Hexes: Beckon Familiar, Doomward, Duplicity, Obfuscate, Ruin<br>
+    Hexes: Beckon Familiar, Duplicity, Evil Eye, Obfuscate, Ruin<br>
     White Magic: Bonus Spells, Hex(Remedy), Talisman of Protection, Benevolent Surge<br>
 
 -   Spell Casting:
